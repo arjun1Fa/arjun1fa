@@ -1,36 +1,33 @@
-<!-- ======================= HEADER / HERO ======================= -->
+<!-- ======================= PIXEL HEADER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Arjun%20A%20S&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<h2 align="center">🚀 AI/ML Developer | Computer Vision Enthusiast</h2>
-
-<p align="center">
-  Building intelligent systems that understand food 🍛 through vision 👁️  
-</p>
+<h2 align="center">🚀 Arjun A S</h2>
+<p align="center">AI/ML Developer • Computer Vision • Building NutriVision</p>
 
 ---
 
 # 💫 About Me
 
-🔭 Currently building a **real-time food analysis system** that:
-- Detects food from camera 📷  
+🔭 I’m currently working on a mini project that:
+- Detects food using mobile camera 📷  
 - Estimates weight ⚖️  
-- Calculates nutrition 🧠  
+- Calculates nutritional values 🧠  
 
-💡 Focus Area:
-- Computer Vision (YOLO, OpenCV)
+💡 Focus:
+- Computer Vision (YOLOv8, OpenCV)
 - AI-powered mobile apps (Flutter + Backend)
 
-🌱 Learning:
-- Deep Learning Optimization  
-- Model Deployment & Scaling  
+🌱 Currently learning:
+- Deep Learning optimization  
+- Model deployment  
 
 🤝 Open to:
 - Collaborations  
-- AI/ML Projects  
-- Hackathons & Research  
+- AI/ML opportunities  
+- Hackathons  
 
 ---
 
@@ -38,17 +35,17 @@
 
 🚀 **AI-powered Food Intelligence System**
 
-✨ What it does:
-- Detects food using YOLOv8  
-- Estimates portion size  
-- Calculates nutritional values  
+✨ Features:
+- Food detection using YOLOv8  
+- Portion estimation  
+- Nutritional analysis  
 
-🛠️ Tech:
-- YOLOv8 (PyTorch)
-- Flutter (Frontend)
-- Flask (Backend)
+🛠️ Tech Stack:
+- PyTorch + YOLOv8  
+- Flutter  
+- Flask  
 
-💡 Goal:
+💡 Vision:
 > Turn your phone camera into a **nutrition analyzer**
 
 ---
@@ -110,7 +107,7 @@
 
 ---
 
-# 🏆 Contribution Activity
+# 🏆 Contributions
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=arjun1fa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
@@ -122,12 +119,4 @@
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=arjun1fa&icon=5&color=12" />
-</p>
-
----
-
-<!-- ======================= FOOTER ======================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
 </p>
