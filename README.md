@@ -72,6 +72,7 @@
 
 ## 🧠 AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLOv8-00FFFF?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white?style=for-the-badge&logo=opencv&logoColor=black)
 
