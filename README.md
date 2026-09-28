@@ -1,8 +1,6 @@
 <div align="center">
 
-<br>
-
-<img src="./assets/hero-gold.svg" alt="Arjun A S — Black and Gold developer theme" width="100%">
+<img src="./assets/hero.svg" width="100%" alt="Arjun A S — black, red and silver developer profile">
 
 <br><br>
 
@@ -10,16 +8,13 @@
 <tr>
 <td align="center">
 
-# ARJUN A S
-
-<sub><b>AI / ML</b> &nbsp;•&nbsp; <b>COMPUTER VISION</b> &nbsp;•&nbsp; <b>BACKEND</b> &nbsp;•&nbsp; <b>FULL-STACK</b> &nbsp;•&nbsp; <b>LOCAL AI</b></sub>
+<b>AI / ML</b> &nbsp;•&nbsp; <b>COMPUTER VISION</b> &nbsp;•&nbsp; <b>BACKEND</b> &nbsp;•&nbsp; <b>FULL-STACK</b> &nbsp;•&nbsp; <b>LOCAL AI</b>
 
 <br><br>
 
 <sub>
-I build useful systems, chase strange ideas, and usually end up somewhere between
-<br>
-AI, software and things that probably should have been a little simpler.
+I build useful systems, experiment with ambitious ideas, and move comfortably between
+models, APIs, products and infrastructure.
 </sub>
 
 <br><br>
@@ -36,23 +31,23 @@ AI, software and things that probably should have been a little simpler.
 
 <br>
 
-> **build quietly. ship loudly.**
+<sub><i>build quietly. make it count.</i></sub>
 
 </div>
 
+<br>
+
+<img src="./assets/the-work.svg" width="100%" alt="The Work">
+
+I work across the stack rather than treating AI as a standalone box.
+
+A project can begin with a model, become an API, turn into a mobile or web application, pick up a database, and eventually become a complete system.
+
+The common thread is simple: **take a real problem, understand the system around it, and build the thing.**
+
 ---
 
-# THE WORK
-
-I like working across the stack rather than treating AI as a standalone box.
-
-A project can start with a model, become an API, turn into a mobile app, pick up a database, and somehow end up as a complete product.
-
-My work lives around **AI, software engineering, systems, and real-world problems**.
-
----
-
-# DOMAINS
+<img src="./assets/domains.svg" width="100%" alt="Domains I work in">
 
 <table>
 <tr>
@@ -162,7 +157,7 @@ Infrastructure
 
 **09**
 
-### DISTRIBUTED SYSTEMS
+### SYSTEMS
 
 WebSockets  
 Networking  
@@ -198,7 +193,7 @@ Practical AI
 
 **12**
 
-### RAPID PROTOTYPING
+### PROTOTYPING
 
 Hackathons  
 Experiments  
@@ -211,118 +206,69 @@ Product Builds
 
 ---
 
-# SELECTED WORK
+<img src="./assets/selected-work.svg" width="100%" alt="Selected Work">
 
-<div align="center">
+## CET × ARMADA
 
-### CET × ARMADA
 **SATELLITE MESH COMMUNICATION**
 
-</div>
-
-A systems-heavy hackathon project exploring **satellite mesh communication** and resilient distributed networking.
+A systems-oriented hackathon build exploring satellite mesh communication, distributed networking and resilient communication.
 
 `Go` `Networking` `Distributed Systems`
 
 <br>
 
-<div align="center">
+## SMARTILEE
 
-### SMARTILEE
 **AI-POWERED WHATSAPP COMMERCE**
 
-</div>
-
-An AI commerce platform built around customer conversations — **intent detection, sentiment, personalized responses, churn prediction, automated follow-ups and human handoff**.
+An AI commerce platform built around customer conversations: intent detection, sentiment analysis, personalised responses, churn prediction, automated follow-ups and human handoff.
 
 `LLMs` `Flask` `Node.js` `Supabase` `Flutter`
 
 <br>
 
-<div align="center">
+## MEETILY
 
-### MEETILY / LOCAL AI
 **PRIVACY-FIRST MEETING INTELLIGENCE**
 
-</div>
+Work around local-first meeting intelligence, on-device transcription, summarisation and self-hosted AI workflows.
 
-Work around **local-first meeting intelligence**, on-device transcription, summarization and self-hosted AI workflows.
-
-`Local AI` `Whisper` `LLMs` `AI Systems`
+`Local AI` `Speech` `LLMs` `AI Systems`
 
 <br>
 
-<div align="center">
+## HOSPITAL NAV
 
-### HOSPITAL NAV
 **INDOOR NAVIGATION + COMPUTER VISION**
 
-</div>
-
-A navigation system combining **A* routing, WiFi fingerprinting, CLIP-based visual matching, AR wayfinding and voice guidance**.
+A navigation system combining A* routing, WiFi fingerprinting, CLIP-based visual matching, AR wayfinding and voice guidance.
 
 `Flutter` `FastAPI` `CLIP` `A*` `AR`
 
 <br>
 
-<div align="center">
+## GO PASHU
 
-### GO PASHU
-**AI FOR FARMERS**
+**AI FOR AGRICULTURE**
 
-</div>
-
-A mobile-first system combining **farm management and disease detection** for a practical agriculture workflow.
+A mobile-first system combining farm management and disease detection into one practical workflow.
 
 `Flutter` `Flask` `PostgreSQL`
 
 <br>
 
-<div align="center">
+## NUTRIVISION
 
-### NUTRIVISION
 **COMPUTER VISION FOR FOOD**
 
-</div>
-
-An early deep dive into **food detection, portion estimation and nutritional analysis** using a mobile camera.
+A computer-vision project exploring food detection, portion estimation and nutritional analysis from a mobile camera.
 
 `YOLOv8` `PyTorch` `OpenCV` `Flutter`
 
 ---
 
-# HOW I BUILD
-
-```text
-             idea
-              │
-              ▼
-         "this could work"
-              │
-              ▼
-          prototype
-              │
-              ▼
-      architecture gets weird
-              │
-              ▼
-            build
-              │
-              ▼
-            break
-              │
-              ▼
-             fix
-              │
-              ▼
-            ship
-```
-
-I care about the complete system — not just the model, not just the UI, and not just the API.
-
----
-
-# TOOLBOX
+<img src="./assets/toolbox.svg" width="100%" alt="Toolbox">
 
 <table>
 <tr>
@@ -344,7 +290,6 @@ I care about the complete system — not just the model, not just the UI, and no
 `Tailwind CSS`
 
 </td>
-
 <td width="50%">
 
 ### BACKEND
@@ -369,47 +314,39 @@ I care about the complete system — not just the model, not just the UI, and no
 
 ---
 
-# GITHUB — THE LEDGER
-
 <div align="center">
+
+<img src="./assets/github.svg" width="100%" alt="GitHub Ledger">
+
+<br>
 
 ### ALL-TIME COMMIT HISTORY
 
-<img src="https://github-readme-stats.vercel.app/api?username=arjun1Fa&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0B0A08&title_color=F0C674&text_color=D7D0C4&icon_color=D4AF37&ring_color=D4AF37&rank_icon=github&custom_title=Lifetime%20GitHub%20Ledger" alt="Lifetime GitHub commit and activity statistics" width="520">
+<img src="https://github-readme-stats.vercel.app/api?username=arjun1Fa&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0B0B0D&title_color=B8202A&text_color=C9C9CE&icon_color=D8D8DD&rank_icon=github&custom_title=ALL-TIME%20GITHUB%20LEDGER" width="520" alt="GitHub statistics using all available commit history">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=arjun1Fa&background=0B0A08&border=D4AF37&stroke=3A3020&ring=D4AF37&fire=F0C674&currStreakNum=F4E7C1&sideNums=F4E7C1&currStreakLabel=F0C674&sideLabels=C6BFAE&dates=807B70&hide_border=false" alt="GitHub contribution streak" width="520">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun1Fa&bg_color=0B0B0D&color=C9C9CE&line=B8202A&point=F0F0F2&area=true&area_color=3A0D11&hide_border=true" width="100%" alt="GitHub contribution activity">
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjun1Fa&theme=github_dark" alt="GitHub contribution history" width="100%">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun1Fa&bg_color=0B0A08&color=C6BFAE&line=D4AF37&point=F4E7C1&area_color=6B5424&area=true&hide_border=true" alt="GitHub activity graph" width="100%">
+<sub>
+The main statistics card uses <code>include_all_commits=true</code> so its total commit figure is configured for the available all-history commit data rather than only the current year.
+</sub>
 
 </div>
 
 ---
 
-# CONTRIBUTION NOTE
-
-The main statistics card is configured with `include_all_commits=true`, so the commit count is intended to represent **all available commit history**, rather than only the current year.
-
-The activity graph is shown separately so that **history** and **recent activity** are not presented as the same metric.
-
----
+<img src="./assets/contact.svg" width="100%" alt="Let's Build">
 
 <div align="center">
 
-<br>
+### HAVE AN INTERESTING IDEA?
 
-<img src="./assets/elephant-divider.svg" alt="Gold elephant divider" width="180">
+I'd rather build it than make a slide deck about building it.
 
 <br><br>
-
-### LET'S BUILD SOMETHING INTERESTING.
 
 <a href="https://github.com/arjun1Fa">GITHUB</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -419,10 +356,6 @@ The activity graph is shown separately so that **history** and **recent activity
 
 <br><br>
 
-<sub>good ideas deserve good execution.</sub>
-
-<br><br>
-
-**01 — BUILD &nbsp;&nbsp; 02 — BREAK &nbsp;&nbsp; 03 — FIX &nbsp;&nbsp; 04 — SHIP**
+<sub><i>good ideas deserve good execution.</i></sub>
 
 </div>
