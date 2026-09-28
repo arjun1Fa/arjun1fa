@@ -2,23 +2,27 @@
 
 <br>
 
-<img src="./assets/pixel-hero.gif" alt="Animated pixel-art developer setup" width="100%">
-
-<br>
-
-# Arjun A S
-
-### `AI / ML` · `Computer Vision` · `Backend` · `Full-Stack` · `Local AI`
-
-<sub>building useful things, breaking them, fixing them, and occasionally wondering why they worked in the first place.</sub>
+<img src="./assets/hero.gif" alt="Pixel-art developer workstation" width="100%">
 
 <br><br>
 
-<a href="https://github.com/arjun1Fa">GitHub</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:culerarjun@gmail.com">Email</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://instagram.com/_winter.a_">Instagram</a>
+# ARJUN A S
+
+### AI / ML  ·  SOFTWARE  ·  SYSTEMS
+
+<sub>computer vision • backend • full-stack • local AI • mobile • distributed systems</sub>
+
+<br><br>
+
+<a href="mailto:culerarjun@gmail.com">email</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/arjun1Fa">github</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://instagram.com/_winter.a_">instagram</a>
+
+<br><br>
+
+<sub><code>turning ideas into systems</code></sub>
 
 <br><br>
 
@@ -26,34 +30,32 @@
 
 ---
 
-## a little about me
+## 01 / who i am
 
-I'm a computer science student who likes working at the intersection of **AI and software engineering**.
+I’m a computer science student who likes building at the intersection of **AI and software engineering**.
 
-I enjoy taking a problem, building the first version, figuring out why everything broke, and then turning it into something that is actually useful.
+I work across the stack rather than staying inside one niche: sometimes that means training a vision model, sometimes designing an API, sometimes wiring realtime services together, and sometimes figuring out how to get the whole thing running on an actual device.
 
-My work has taken me across **AI/ML, computer vision, local AI, backend systems, realtime applications, mobile development, databases, automation, networking and deployment**.
+Most of the things I build start with one question:
 
-I don't really like staying inside one box.
+> **can this make something easier, smarter, or more useful?**
 
 ---
 
-# domains i work in
+## 02 / domains i work in
 
 <table>
 <tr>
-
 <td width="25%" valign="top">
 
 ### AI / ML
 
 Machine Learning  
 Deep Learning  
-LLM applications  
-AI products
+LLM Applications  
+AI Products
 
 </td>
-
 <td width="25%" valign="top">
 
 ### Computer Vision
@@ -64,7 +66,6 @@ YOLO / OpenCV
 Multimodal AI
 
 </td>
-
 <td width="25%" valign="top">
 
 ### Local AI
@@ -75,22 +76,18 @@ Private AI
 Model Deployment
 
 </td>
-
 <td width="25%" valign="top">
 
 ### Backend
 
 REST APIs  
-Business Logic  
-Realtime Services  
-Backend Architecture
+Service Architecture  
+Realtime Systems  
+Business Logic
 
 </td>
-
 </tr>
-
 <tr>
-
 <td valign="top">
 
 ### Frontend
@@ -98,10 +95,9 @@ Backend Architecture
 React  
 Next.js  
 TypeScript  
-Modern Web Apps
+Web Applications
 
 </td>
-
 <td valign="top">
 
 ### Mobile
@@ -109,13 +105,12 @@ Modern Web Apps
 Flutter  
 Dart  
 Camera / Sensors  
-Mobile AI
+On-device AI
 
 </td>
-
 <td valign="top">
 
-### Databases
+### Data
 
 PostgreSQL  
 Supabase  
@@ -123,7 +118,6 @@ Prisma
 Data Modelling
 
 </td>
-
 <td valign="top">
 
 ### Cloud / DevOps
@@ -134,11 +128,8 @@ Deployment
 Infrastructure
 
 </td>
-
 </tr>
-
 <tr>
-
 <td valign="top">
 
 ### Distributed Systems
@@ -149,7 +140,6 @@ Service Integration
 Realtime Communication
 
 </td>
-
 <td valign="top">
 
 ### Automation
@@ -160,18 +150,16 @@ APIs
 Developer Tooling
 
 </td>
-
 <td valign="top">
 
 ### Accessibility
 
 Assistive Software  
 Braille Systems  
-Human-Centred Tools  
+Human-centred Tools  
 Practical AI
 
 </td>
-
 <td valign="top">
 
 ### Rapid Prototyping
@@ -182,256 +170,193 @@ Proof of Concepts
 Product Builds
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# selected work
+## 03 / selected work
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-## Smartilee
+### SMARTILEE
 
-An AI-powered WhatsApp commerce platform focused on **intent detection, personalized responses, churn prediction, automated follow-ups and human handoff**.
+**AI-powered WhatsApp commerce**
+
+A full-stack AI system for customer conversations, intent detection, personalized replies, churn prediction, automated follow-ups and human handoff.
 
 `LLMs` `Python` `Node.js` `Supabase`
 
 </td>
-
 <td width="50%" valign="top">
 
-## Meetily / Local AI
+### HOSPITAL NAV
 
-Work around **privacy-first meeting intelligence**, local processing, transcription, summarization and self-hosted AI workflows.
+**Indoor navigation for complex buildings**
 
-`Local AI` `Speech` `LLMs` `AI Systems`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## Hospital Nav
-
-Indoor hospital navigation combining **A* routing, WiFi fingerprinting, CLIP-based vision, AR wayfinding and voice guidance**.
+A navigation system combining graph routing, WiFi fingerprinting, CLIP-based visual matching, AR wayfinding and voice guidance.
 
 `Flutter` `FastAPI` `A*` `CLIP`
 
 </td>
-
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-## Go Pashu
+### GO PASHU
 
-A farmer-focused mobile platform combining **farm management and disease detection** into a single workflow.
+**Technology for farm management**
+
+A mobile-first system combining farm management with disease detection, built around a Flutter client and Python backend.
 
 `Flutter` `Flask` `PostgreSQL`
 
 </td>
-
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
-## NutriVision
+### MEETILY / LOCAL AI
 
-A computer-vision system exploring **food detection, portion estimation and nutritional analysis** from a mobile camera.
+**Privacy-first meeting intelligence**
+
+Work around local transcription, summarization, self-hosted AI workflows and what happens when useful AI runs closer to the user.
+
+`Local AI` `Speech` `LLMs` `AI Systems`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### NUTRIVISION
+
+**Computer vision for food intelligence**
+
+Food detection, portion estimation and nutritional analysis through a mobile-oriented computer vision pipeline.
 
 `YOLOv8` `PyTorch` `OpenCV` `Flutter`
 
 </td>
-
 <td width="50%" valign="top">
 
-## Braille Converter
+### CET × ARMADA
 
-An accessibility-focused project for **text ↔ Braille conversion** through a Flutter frontend and Python backend.
+**Satellite mesh communication**
 
-`Flutter` `Flask` `Python`
+A hackathon project exploring mesh-based satellite communication, networking and distributed communication systems.
+
+`Go` `Networking` `Distributed Systems`
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# hackathons & technical experiments
+## 04 / the kind of engineering i enjoy
 
-## CET × ARMADA
+I like projects where the interesting part is **underneath the interface**.
 
-### Satellite Mesh Communication
-
-One of the more systems-oriented projects I've worked on — exploring **mesh-based satellite communication, networking and distributed communication**.
-
-`Go` · `Networking` · `Distributed Systems`
-
----
-
-## Smartilee
-
-Built an end-to-end AI commerce system as a hackathon project, covering everything from messaging integration and AI orchestration to backend services, data storage and business workflows.
-
-`AI` · `LLMs` · `Backend` · `Product Engineering`
-
----
-
-## Local AI / Meetily
-
-Exploring what changes when useful AI systems move closer to the user — **local processing, private data, self-hosted models and AI workflows** instead of treating the cloud as the default for everything.
-
-`Local AI` · `LLMs` · `Speech` · `Agents`
-
----
-
-# how i like building
-
-I care about the whole system.
-
-Not just the model.
-
-Not just the UI.
-
-Not just the API.
-
-The interesting part is making all of them work together.
+A good project, to me, usually has some combination of:
 
 ```text
-problem
-   ↓
-idea
-   ↓
-prototype
-   ↓
-"okay, this could actually work"
-   ↓
-architecture
-   ↓
-build
-   ↓
-break
-   ↓
-fix
-   ↓
-ship
+an actual problem
+      +
+interesting constraints
+      +
+multiple pieces that need to talk to each other
+      +
+something worth learning
+      =
+worth building
 ```
 
-A lot of my projects start as something small and gradually become much bigger than the original idea.
+That is why my projects jump between **models, APIs, mobile apps, databases, realtime systems, networking and infrastructure**.
 
 ---
 
-# engineering toolbox
+## 05 / toolkit
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### languages
-
+**Languages**  
 `Python` `TypeScript` `JavaScript` `Dart` `Java` `C` `SQL`
 
-### AI / ML
-
+**AI / ML**  
 `PyTorch` `TensorFlow` `YOLOv8` `OpenCV` `CLIP` `LLMs`
 
-### frontend
-
+**Frontend**  
 `React` `Next.js` `Flutter` `Tailwind CSS`
 
-### mobile
-
-`Flutter` `Dart` `Camera` `Sensors`
-
 </td>
-
 <td width="50%" valign="top">
 
-### backend
-
+**Backend**  
 `Node.js` `FastAPI` `Flask` `Express`
 
-### data
-
+**Data**  
 `PostgreSQL` `Supabase` `Prisma`
 
-### infrastructure
-
-`Docker` `GitHub Actions` `Vercel`
-
-### tools
-
-`Git` `Postman` `Figma`
+**Infrastructure / Tools**  
+`Docker` `GitHub Actions` `Git` `Postman` `Figma`
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# github
+## 06 / git history
 
 <div align="center">
 
-## all-time activity
+### TOTAL COMMITS · ALL HISTORY
 
-<img src="https://github-readme-stats.vercel.app/api?username=arjun1Fa&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&rank_icon=github&custom_title=All-Time%20GitHub%20Stats" alt="All-time GitHub statistics including total commits" width="520">
-
-<br><br>
-
-<img src="https://github-stats-extended.vercel.app/api/metrics?username=arjun1Fa&theme=dark" alt="Extended GitHub statistics" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=arjun1Fa&show_icons=true&include_all_commits=true&hide=stars,issues,prs,contribs,followers,discussions&hide_border=true&theme=github_dark&custom_title=All-Time%20Git%20History" alt="All-time GitHub commit history" width="520">
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjun1Fa&theme=github_dark" alt="GitHub contribution profile" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjun1Fa&theme=github_dark" alt="GitHub contribution history" width="100%">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun1Fa&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun1Fa&bg_color=0D1117&color=9AA4B2&line=6EE7F7&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity over time" width="100%">
 
 </div>
 
----
-
-# beyond code
-
-A lot of my work also happens around **hackathons, technical communities and collaborative builds**.
-
-I enjoy:
-
-`building` · `organising` · `experimenting` · `learning` · `helping people build`
-
-I'm especially interested in projects where software, AI and real-world constraints collide.
+> The stats card uses `include_all_commits=true`, so the commit figure is configured for the all-history total supported by the service, rather than only the current year.
 
 ---
 
-# let's build something
+## 07 / outside the code
 
-Have an interesting idea?
+A lot of my development happens through **hackathons, technical communities, collaborative builds and experiments**.
 
-**I'd rather build it than make a slide deck about building it.**
+I enjoy the parts of software that don’t fit neatly into one technology box — designing the idea, figuring out the architecture, building the thing, and then finding out what breaks first.
+
+---
 
 <div align="center">
 
-<a href="https://github.com/arjun1Fa">GitHub</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:culerarjun@gmail.com">Email</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://instagram.com/_winter.a_">Instagram</a>
+<br>
+
+### let’s build something interesting.
+
+<br>
+
+<a href="mailto:culerarjun@gmail.com">email</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/arjun1Fa">github</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://instagram.com/_winter.a_">instagram</a>
 
 <br><br>
 
-<sub>build → break → fix → repeat</sub>
+<sub><code>build → break → fix → repeat</code></sub>
+
+<br><br>
 
 </div>
