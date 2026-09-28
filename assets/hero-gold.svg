@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 620">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#060606"/>
+      <stop offset="0.55" stop-color="#100D08"/>
+      <stop offset="1" stop-color="#050505"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#D4AF37" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#D4AF37" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0" stop-color="#8F6B1D"/>
+      <stop offset=".5" stop-color="#F0C674"/>
+      <stop offset="1" stop-color="#A77D22"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+
+  <rect width="1600" height="620" fill="url(#bg)"/>
+  <ellipse cx="800" cy="310" rx="520" ry="300" fill="url(#glow)" filter="url(#soft)"/>
+
+  <!-- art deco frame -->
+  <rect x="26" y="26" width="1548" height="568" rx="18" fill="none" stroke="#D4AF37" stroke-opacity=".65"/>
+  <rect x="45" y="45" width="1510" height="530" rx="14" fill="none" stroke="#8F6B1D" stroke-opacity=".35"/>
+  <path d="M80 160H1520 M80 460H1520" stroke="#D4AF37" stroke-opacity=".10"/>
+  <path d="M230 46L120 156 M1370 46L1480 156 M230 574L120 464 M1370 574L1480 464" stroke="#D4AF37" stroke-opacity=".20"/>
+
+  <!-- elephant insignia -->
+  <g transform="translate(1280 118)" opacity=".88">
+    <path d="M115 50
+             C66 40 25 64 18 103
+             C12 140 31 163 58 166
+             C47 195 67 214 95 204
+             C120 195 120 162 119 140
+             C148 124 168 95 151 70
+             C143 59 130 53 115 50Z"
+          fill="none" stroke="url(#gold)" stroke-width="8"/>
+    <path d="M116 82 C140 90 148 109 136 130 C125 149 103 154 84 146"
+          fill="none" stroke="#F0C674" stroke-width="5"/>
+    <circle cx="91" cy="87" r="5" fill="#F0C674"/>
+    <path d="M32 105 C0 83 6 54 34 36" fill="none" stroke="#D4AF37" stroke-width="6" stroke-linecap="round"/>
+    <path d="M57 168 L49 215 M107 164 L114 216" stroke="#D4AF37" stroke-width="7" stroke-linecap="round"/>
+    <path d="M46 216 L28 216 M116 216 L134 216" stroke="#D4AF37" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+  <!-- T-pose armored figure -->
+  <g transform="translate(800 60)">
+    <!-- halo -->
+    <circle cx="0" cy="254" r="205" fill="none" stroke="#D4AF37" stroke-opacity=".10" stroke-width="2"/>
+    <circle cx="0" cy="254" r="175" fill="none" stroke="#F0C674" stroke-opacity=".08" stroke-width="2"/>
+
+    <!-- head -->
+    <path d="M-48 120 L-35 82 L0 64 L35 82 L48 120 L34 150 L0 163 L-34 150 Z"
+          fill="#11110F" stroke="url(#gold)" stroke-width="5"/>
+    <path d="M-28 115 H28" stroke="#F0C674" stroke-width="4"/>
+    <circle cx="-15" cy="116" r="3" fill="#F0C674"/>
+    <circle cx="15" cy="116" r="3" fill="#F0C674"/>
+
+    <!-- shoulders / torso -->
+    <path d="M-120 165 L-55 145 L0 158 L55 145 L120 165 L92 285 L42 305 L0 296 L-42 305 L-92 285 Z"
+          fill="#0D0D0C" stroke="url(#gold)" stroke-width="6"/>
+    <path d="M-30 170 L0 198 L30 170 L22 282 L0 300 L-22 282 Z"
+          fill="#181510" stroke="#D4AF37" stroke-width="4"/>
+
+    <!-- left arm -->
+    <path d="M-112 168 L-180 156 L-300 190 L-470 190"
+          fill="none" stroke="#11110F" stroke-width="48" stroke-linecap="round"/>
+    <path d="M-112 168 L-180 156 L-300 190 L-470 190"
+          fill="none" stroke="url(#gold)" stroke-width="5" stroke-linecap="round"/>
+
+    <!-- right arm -->
+    <path d="M112 168 L180 156 L300 190 L470 190"
+          fill="none" stroke="#11110F" stroke-width="48" stroke-linecap="round"/>
+    <path d="M112 168 L180 156 L300 190 L470 190"
+          fill="none" stroke="url(#gold)" stroke-width="5" stroke-linecap="round"/>
+
+    <!-- gauntlets -->
+    <rect x="-500" y="165" width="70" height="52" rx="15" fill="#12110E" stroke="#D4AF37" stroke-width="5"/>
+    <rect x="430" y="165" width="70" height="52" rx="15" fill="#12110E" stroke="#D4AF37" stroke-width="5"/>
+
+    <!-- waist / legs -->
+    <path d="M-44 296 L-36 392 L-88 500 L-32 500 L0 405 L32 500 L88 500 L36 392 L44 296 Z"
+          fill="#0D0D0C" stroke="url(#gold)" stroke-width="6"/>
+    <path d="M-30 498 H-95 M30 498 H95" stroke="#F0C674" stroke-width="7" stroke-linecap="round"/>
+
+    <!-- chest emblem -->
+    <path d="M0 202 L15 216 L9 238 L0 247 L-9 238 L-15 216 Z" fill="url(#gold)"/>
+  </g>
+
+  <!-- subtle labels -->
+  <g font-family="monospace" fill="#C6BFAE">
+    <text x="90" y="100" font-size="15" letter-spacing="4">PRIVATE BUILD ROOM / 01</text>
+    <text x="90" y="548" font-size="14" letter-spacing="3">AI • SYSTEMS • SOFTWARE • EXPERIMENTS</text>
+    <text x="1375" y="548" font-size="14" letter-spacing="3">ARJUN A S</text>
+  </g>
+</svg>
