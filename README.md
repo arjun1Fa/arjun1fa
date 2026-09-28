@@ -1,465 +1,343 @@
-<div align="center">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=building+things+that+actually+work_;AI+%7C+software+%7C+systems+%7C+computer+vision;idea+%E2%86%92+prototype+%E2%86%92+build+%E2%86%92+ship" alt="Typing animation">
-
-<br><br>
-
-# Arjun A S
-
-### `AI / ML` · `Full-Stack` · `Computer Vision` · `Backend` · `Local AI`
-
-<p>
-  <a href="https://github.com/arjun1Fa">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:culerarjun@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://instagram.com/_winter.a_">Instagram</a>
-</p>
-
-<br>
-
-<sub>
-I like taking interesting ideas and turning them into things that actually work.
-</sub>
-
-<br><br>
-
-</div>
-
----
-
-## about
-
-I'm a computer science student who spends a lot of time building software, experimenting with AI, and turning random ideas into working systems.
-
-Most of my work sits somewhere between:
-
-`AI` + `software engineering` + `systems` + `real-world problems`
-
-I like projects where the interesting part isn't just the interface — there's an actual system underneath it.
-
----
-
-# domains i work in
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-### 🤖 AI / ML
-
-Machine Learning  
-Deep Learning  
-LLMs  
-AI Applications
-
-</td>
-
-<td width="25%" align="center">
-
-### 👁️ COMPUTER VISION
-
-Object Detection  
-Image Understanding  
-CLIP  
-YOLO / OpenCV
-
-</td>
-
-<td width="25%" align="center">
-
-### 🧠 LOCAL AI
-
-Local LLMs  
-AI Agents  
-Private AI  
-Model Deployment
-
-</td>
-
-<td width="25%" align="center">
-
-### ⚙️ BACKEND
-
-REST APIs  
-Backend Architecture  
-Real-time Systems  
-Business Logic
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="25%" align="center">
-
-### 🌐 FRONTEND
-
-React  
-Next.js  
-TypeScript  
-Modern Web Apps
-
-</td>
-
-<td width="25%" align="center">
-
-### 📱 MOBILE
-
-Flutter  
-Dart  
-Camera / Sensors  
-Mobile AI
-
-</td>
-
-<td width="25%" align="center">
-
-### 🗄️ DATA
-
-PostgreSQL  
-Supabase  
-Prisma  
-Data Modelling
-
-</td>
-
-<td width="25%" align="center">
-
-### ☁️ CLOUD / DEVOPS
-
-Docker  
-GitHub Actions  
-Deployment  
-Infrastructure
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="25%" align="center">
-
-### 🔄 DISTRIBUTED SYSTEMS
-
-WebSockets  
-Realtime Communication  
-Service Integration  
-Networking
-
-</td>
-
-<td width="25%" align="center">
-
-### 🛠️ AUTOMATION
-
-Background Jobs  
-APIs  
-Workflow Automation  
-Tooling
-
-</td>
-
-<td width="25%" align="center">
-
-### ♿ ACCESSIBILITY
-
-Assistive Software  
-Braille Systems  
-Human-Centred Tools  
-Practical AI
-
-</td>
-
-<td width="25%" align="center">
-
-### 🚀 RAPID PROTOTYPING
-
-Hackathons  
-Experiments  
-Proof of Concepts  
-Product Builds
-
-</td>
-
-</tr>
-</table>
-
----
-
-# selected work
-
-> A few things I've actually spent time building.
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## [Smartilee ↗](https://github.com/arjun1Fa/11_11_hackathon)
-
-### AI-powered WhatsApp commerce
-
-An AI system for businesses that handles conversations, understands customer intent, generates personalized responses, predicts churn and knows when a human should take over.
-
-`LLMs` `Flask` `Node.js` `Supabase`
-
-</td>
-
-<td width="50%" valign="top">
-
-## [Go Pashu ↗](https://github.com/arjun1Fa/go_pashu)
-
-### AI for farmers
-
-A mobile-first platform built around farm management and disease detection, combining a Flutter client with a Python backend and PostgreSQL.
-
-`Flutter` `Flask` `PostgreSQL`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## [Hospital Nav ↗](https://github.com/arjun1Fa/hospital-nav)
-
-### Indoor navigation for hospitals
-
-A navigation system combining graph routing, WiFi fingerprinting, computer vision and AR to help people navigate complex hospital buildings.
-
-`Flutter` `FastAPI` `A*` `CLIP` `AR`
-
-</td>
-
-<td width="50%" valign="top">
-
-## [Meetily ↗](https://github.com/arjun1Fa/meetily_1234)
-
-### Local-first meeting intelligence
-
-Exploring privacy-first meeting AI, local transcription, summarization and self-hosted intelligent workflows.
-
-`AI` `Local Models` `Speech` `LLMs`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## [Braille Project ↗](https://github.com/arjun1Fa/Braille_miniproject)
-
-### Accessibility through software
-
-A Flutter + Python project focused on converting between text and Braille through a simple mobile interface.
-
-`Flutter` `Python` `Flask`
-
-</td>
-
-<td width="50%" valign="top">
-
-## [Syllabus Tracker ↗](https://github.com/arjun1Fa/Syllabus_tracker)
-
-### Making college life slightly less painful
-
-A practical utility built around organizing and tracking academic progress instead of keeping everything scattered across different places.
-
-`Web` `JavaScript`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# CET × ARMADA
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=hey,%20i'm%20arjun&fontSize=42&fontColor=c9d1d9&fontAlignY=35&desc=ai/ml%20developer%20·%20full-stack%20builder%20·%20computer%20vision&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <div align="center">
 
-### `CodeReCET × ARMADA`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&lines=%E2%9C%A6+idea+%E2%86%92+build+%E2%86%92+break+%E2%86%92+fix+%E2%86%92+ship;%F0%9F%94%AD+computer+vision+%C2%B7+deep+learning+%C2%B7+yolov8;%F0%9F%9B%A0%EF%B8%8F+flutter+%C2%B7+fastapi+%C2%B7+pytorch+%C2%B7+opencv;%F0%9F%A7%AA+building+things+that+actually+work" alt="Typing SVG" />
 
-**Satellite Mesh Communication**
+<br>
+
+<a href="https://github.com/arjun1Fa"><img src="https://img.shields.io/badge/GitHub-arjun1Fa-161b22?style=flat-square&logo=github&logoColor=c9d1d9" /></a>
+<a href="https://instagram.com/_winter.a_"><img src="https://img.shields.io/badge/Instagram-_winter.a_-161b22?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
+<a href="mailto:culerarjun@gmail.com"><img src="https://img.shields.io/badge/Email-culerarjun-161b22?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+<img src="https://komarev.com/ghpvc/?username=arjun1Fa&style=flat-square&color=161b22&label=profile+views" />
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-A hackathon project exploring a **satellite mesh communication system**, combining networking concepts with distributed communication.
+<br>
 
-`Go` · `Networking` · `Distributed Systems` · `Satellite Communication`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;what i do
 
-[View project ↗](https://github.com/xyphx/CodeReCETxARMADA-hackathon)
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
-
-# nutriVision
-
-One of my earlier deep dives into practical computer vision.
-
-The idea:
-
-```text
-camera
-  ↓
-food detection
-  ↓
-portion estimation
-  ↓
-nutrition analysis
+### 🧠 ai / ml
+```
+▸ computer vision
+▸ object detection & tracking
+▸ model training & optimization
+▸ deep learning pipelines
+▸ nutritional analysis systems
 ```
 
-The project explored:
+</td>
+<td width="50%" valign="top">
 
-- food detection
-- portion estimation
-- nutritional analysis
-- mobile inference
-- computer vision pipelines
-
-`YOLOv8` `PyTorch` `OpenCV` `Flutter` `Flask`
-
----
-
-# how i like building
-
-I don't really enjoy building things just because a technology is trendy.
-
-I like projects where there is an actual problem hiding underneath the code.
-
-A lot of my projects follow roughly the same path:
-
-```text
-random idea
-     ↓
-"this might actually be useful"
-     ↓
-prototype
-     ↓
-questionable architecture
-     ↓
-make it work
-     ↓
-break it
-     ↓
-fix it
-     ↓
-ship it
+### ⚡ software
+```
+▸ flutter mobile apps
+▸ python backends
+▸ fastapi & flask apis
+▸ typescript projects
+▸ full-stack systems
 ```
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-# engineering toolbox
+### 🔧 building
+```
+▸ real-time ai processing
+▸ camera-based detection
+▸ indoor navigation systems
+▸ practical automation tools
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 experiments
+```
+▸ hackathon prototypes
+▸ open source contributions
+▸ local ai experiments
+▸ weird side projects
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;tech stack
+
+<div align="center">
 
 ### languages
+<img src="https://skillicons.dev/icons?i=python,dart,java,c,js,ts,html&theme=dark" />
 
-`Python` `TypeScript` `JavaScript` `Dart` `Java` `C` `SQL`
+### ai / ml
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" height="48" />
+<img src="https://img.shields.io/badge/CLIP-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" />
 
-### AI / ML
+### frontend / mobile
+<img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" />
 
-`PyTorch` `TensorFlow` `YOLOv8` `OpenCV` `CLIP` `LLMs`
+### backend / data
+<img src="https://skillicons.dev/icons?i=fastapi,flask,firebase,mongodb,postgres&theme=dark" />
 
-### frontend
-
-`React` `Next.js` `Flutter` `Tailwind CSS`
-
-### backend
-
-`Node.js` `FastAPI` `Flask` `Express`
-
-### data
-
-`PostgreSQL` `Supabase` `Prisma`
-
-### infrastructure
-
-`Git` `GitHub Actions` `Docker`
-
----
-
-# currently exploring
-
-```text
-LOCAL AI
-├── local LLMs
-├── AI agents
-├── private AI workflows
-└── model deployment
-
-COMPUTER VISION
-├── detection
-├── image understanding
-├── multimodal systems
-└── edge inference
-
-SOFTWARE
-├── full-stack systems
-├── realtime applications
-├── automation
-└── developer tooling
-```
-
----
-
-# github
-
-<div align="center">
-
-## all-time contributions
-
-<img src="https://streak-stats.demolab.com/?user=arjun1Fa&theme=github-dark&hide_border=true&timezone=Asia%2FKolkata" width="500" alt="GitHub contribution streak and activity">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=arjun1Fa&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&rank_icon=github&custom_title=GitHub%20Overview" width="500" alt="GitHub statistics">
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun1Fa&layout=compact&hide_border=true&theme=github_dark" width="360" alt="Most used programming languages">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun1Fa&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph">
+### tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,docker,vscode&theme=dark" />
 
 </div>
 
----
+<br>
 
-# beyond the code
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-A lot of my time also goes into technical communities, hackathons and building things with other people.
+<br>
 
-I enjoy:
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> &nbsp;selected work
 
-`building` · `organising` · `experimenting` · `learning` · `helping people build`
+<br>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-# let's build something
+### 🔬 NutriVision
+> ai-powered food detection and nutritional analysis. point your camera at food — it identifies items with YOLOv8, estimates portions, and calculates nutrition in real time.
 
-Have an interesting idea?
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv" />
 
-I'm usually more interested in **building it** than talking about building it.
+**[repository ↗](https://github.com/arjun1Fa/Mini_Project)**
 
-<p align="center">
+</td>
+<td width="50%" valign="top">
 
-<a href="https://github.com/arjun1Fa">GitHub</a>
-&nbsp;·&nbsp;
-<a href="mailto:culerarjun@gmail.com">Email</a>
-&nbsp;·&nbsp;
-<a href="https://instagram.com/_winter.a_">Instagram</a>
+### 🏥 Hospital Nav
+> indoor hospital navigation using graph routing, CLIP vision for location recognition, wifi fingerprinting, and ar overlays. flutter + fastapi.
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AR-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+
+**[repository ↗](https://github.com/arjun1Fa/hospital-nav)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 Tournament Tracker
+> sports tournament management — team registration, match scheduling, score tracking, and bracket generation for college events.
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+
+**[repository ↗](https://github.com/arjun1Fa/tournament_tracker_pes)**
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ TinkerHub Project
+> full-stack application built during a tinkerhub event. typescript-based rapid prototyping and collaborative development.
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+
+**[repository ↗](https://github.com/arjun1Fa/TInker_hub)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ Hostel Food Management
+> system for managing hostel food operations — menu planning, student preferences, waste tracking, and meal scheduling.
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+
+**[repository ↗](https://github.com/arjun1Fa/hostel_food_management)**
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Syllabus Tracker
+> flutter app to track syllabus completion for university exams. visualize progress and prioritize remaining topics.
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+
+**[repository ↗](https://github.com/arjun1Fa/Syllabus_tracker)**
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🚀 11:11 Hackathon
+> hackathon project — flutter-based mobile app built under time pressure. received community engagement with ⭐ stars and 🍴 forks.
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+&nbsp;&nbsp;
+**[repository ↗](https://github.com/arjun1Fa/11_11_hackathon)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"> &nbsp;what i like building
+
+<table>
+<tr>
+<td>
+
+> *"i like building things that solve an actual problem — or at least a problem i personally find annoying enough to fix."*
+
+most projects start as a random idea at 2am and somehow become a working system.
+
+the hospital navigation project started because **i got lost in a hospital.**
+nutrivision started because **i wanted to know how many calories were in my mess food.**
+
+if there's a camera, a model, and a real-world problem — i'm probably building something for it.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;currently building
+
+<table>
+<tr>
+<td>
+
+```text
+🔭  computer vision systems for real-world object detection and analysis
+📱  full-stack mobile applications with ai-powered backends
+🧪  experimenting with local ai and model deployment pipelines
+🚀  exploring llm integration for practical developer tools
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;github
+
+<div align="center">
+
+<!-- Trophies -->
+<a href="https://github.com/arjun1Fa">
+<img src="https://github-profile-trophy.vercel.app/?username=arjun1Fa&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=6" width="98%" />
+</a>
 
 <br><br>
 
-<sub>build → break → fix → repeat</sub>
+<!-- Streak Stats -->
+<a href="https://github.com/arjun1Fa">
+<img src="https://streak-stats.demolab.com?user=arjun1Fa&theme=algolia&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58&stroke=21262d&background=0D1117" width="70%" />
+</a>
 
-</p>
+<br><br>
+
+<!-- Stats + Top Languages -->
+<a href="https://github.com/arjun1Fa">
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=arjun1Fa&show_icons=true&theme=algolia&hide_border=true&border_radius=8&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&include_all_commits=true&count_private=true" />
+</a>
+&nbsp;
+<a href="https://github.com/arjun1Fa">
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun1Fa&layout=donut&theme=algolia&hide_border=true&border_radius=8&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+</a>
+
+<br><br>
+
+<!-- Contribution Activity Graph -->
+<a href="https://github.com/arjun1Fa">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun1Fa&theme=react-dark&hide_border=true&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&radius=8" width="98%" />
+</a>
+
+<br><br>
+
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="98%" />
+</picture>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;let's build something
+
+<div align="center">
+
+**i'm always open to collaborations, hackathons, and interesting ai/ml projects.**
+
+if you're building something cool — or something weird — reach out.
+
+<br>
+
+<a href="https://github.com/arjun1Fa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+&nbsp;
+<a href="https://instagram.com/_winter.a_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:culerarjun@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br><br>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:161b22,100:0d1117&height=120&section=footer&animation=fadeIn" />
+
+<div align="center">
+
+**`build → break → fix → repeat`**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=4000&pause=2000&color=484f58&center=true&vCenter=true&repeat=true&width=300&lines=thanks+for+stopping+by+%E2%9C%A6;have+a+good+one+%F0%9F%91%8B" alt="" />
+
+</div>
