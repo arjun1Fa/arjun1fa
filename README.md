@@ -91,12 +91,12 @@ My work moves between **AI/ML, computer vision, backend engineering, product dev
 <div align="center">
 
 <a href="https://github.com/arjun1Fa">
-  <img src="https://github.com/users/arjun1Fa/contributions" width="100%" alt="Live GitHub contribution calendar"/>
+  <img src="https://ghchart.rshah.org/A3B18A/arjun1Fa" width="100%" alt="GitHub contribution calendar"/>
 </a>
 
 <br/>
 
-<sub>Live contribution calendar from GitHub · last-year activity</sub>
+<sub>Contribution calendar · rolling one-year activity</sub>
 
 </div>
 
