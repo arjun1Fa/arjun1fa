@@ -98,6 +98,29 @@ My work moves between **AI/ML, computer vision, backend engineering, product dev
 
 ---
 
+## GitHub streak & stats
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+<a href="https://github.com/arjun1Fa">
+<img src="https://streak-stats.demolab.com/?user=arjun1Fa&hide_border=true&border_radius=12&background=0D100F&stroke=2A312C&ring=A3B18A&fire=A3B18A&currStreakNum=F1F3F0&sideNums=F1F3F0&currStreakLabel=A3B18A&sideLabels=858F89&dates=606B63&hide_total_contributions=true&timezone=Asia%2FKolkata" alt="GitHub current and longest streak"/>
+</a>
+</td>
+<td>
+<a href="https://github.com/arjun1Fa">
+<img src="https://github-readme-stats.vercel.app/api?username=arjun1Fa&show_icons=true&hide_border=true&bg_color=0D100F&title_color=F1F3F0&text_color=858F89&icon_color=A3B18A&border_color=2A312C&include_all_commits=true&hide_rank=true&custom_title=GitHub%20Stats" alt="GitHub stats"/>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## Build philosophy
 
 <div align="center">
