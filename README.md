@@ -36,9 +36,21 @@ My work moves between **AI/ML, computer vision, backend engineering, product dev
 
 ---
 
+## What I'm Exploring
+
 <div align="center">
 
-<img src="./assets/exploring-stack.svg" width="100%" alt="Current areas of exploration and technology stack"/>
+<img src="./assets/exploring-showcase.svg" width="100%" alt="Current areas of exploration"/>
+
+</div>
+
+---
+
+## Stack
+
+<div align="center">
+
+<img src="./assets/stack-showcase.svg" width="100%" alt="Technology stack"/>
 
 </div>
 
