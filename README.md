@@ -50,7 +50,7 @@ My work moves between **AI/ML, computer vision, backend engineering, product dev
 
 <div align="center">
 
-<img src="./assets/stack-showcase-v2.svg" width="100%" alt="Technology stack"/>
+<img src="./assets/stack-showcase-v3.svg" width="100%" alt="Technology stack"/>
 
 </div>
 
