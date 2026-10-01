@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520"><stop stop-color="#06070b"/><stop offset=".55" stop-color="#0c1020"/><stop offset="1" stop-color="#130b1d"/></linearGradient>
+  <linearGradient id="p1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#312e81"/></linearGradient>
+  <linearGradient id="p2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fb7185"/><stop offset="1" stop-color="#4c0519"/></linearGradient>
+  <linearGradient id="p3" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#60a5fa"/><stop offset="1" stop-color="#172554"/></linearGradient>
+  <linearGradient id="p4" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2dd4bf"/><stop offset="1" stop-color="#042f2e"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".055"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="14"/></filter>
+</defs>
+<rect width="1200" height="520" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="520" rx="28" fill="url(#grid)"/>
+<circle cx="170" cy="100" r="150" fill="#7c3aed" fill-opacity=".10" filter="url(#glow)"/>
+<circle cx="1040" cy="410" r="190" fill="#06b6d4" fill-opacity=".08" filter="url(#glow)"/>
+<text x="56" y="58" fill="#fff" font-family="Arial" font-size="30" font-weight="700">🧠 THE PLAYGROUND</text>
+<text x="56" y="86" fill="#9ca3af" font-family="Arial" font-size="15">Technologies and domains I like working across.</text>
+
+<g transform="translate(48 118)">
+<rect width="265" height="340" rx="22" fill="#10071f" fill-opacity=".88" stroke="#8b5cf6" stroke-opacity=".7"/>
+<rect width="265" height="120" rx="22" fill="url(#p1)" fill-opacity=".20"/>
+<circle cx="58" cy="54" r="28" fill="#8b5cf6" fill-opacity=".16"/>
+<path d="M42 54c3-22 32-22 34 0-5-4-10-5-17-1-7-4-12-3-17 1Z" fill="none" stroke="#c4b5fd" stroke-width="3"/>
+<text x="96" y="52" fill="#fff" font-family="Arial" font-size="22" font-weight="700">AI</text>
+<text x="28" y="156" fill="#e9d5ff" font-family="Arial" font-size="15">LLM Apps · AI Agents</text>
+<text x="28" y="181" fill="#e9d5ff" font-family="Arial" font-size="15">Deep Learning · Local AI</text>
+<text x="28" y="206" fill="#e9d5ff" font-family="Arial" font-size="15">Multimodal systems</text>
+<g transform="translate(28 250)"><rect width="92" height="30" rx="15" fill="#1e1633"/><text x="46" y="20" text-anchor="middle" fill="#ddd6fe" font-family="Arial" font-size="12">PyTorch</text></g>
+<g transform="translate(127 250)"><rect width="82" height="30" rx="15" fill="#1e1633"/><text x="41" y="20" text-anchor="middle" fill="#ddd6fe" font-family="Arial" font-size="12">Agents</text></g>
+<g transform="translate(28 289)"><rect width="80" height="30" rx="15" fill="#1e1633"/><text x="40" y="20" text-anchor="middle" fill="#ddd6fe" font-family="Arial" font-size="12">LLMs</text></g>
+</g>
+
+<g transform="translate(328 118)">
+<rect width="265" height="340" rx="22" fill="#1d0710" fill-opacity=".88" stroke="#fb7185" stroke-opacity=".7"/>
+<rect width="265" height="120" rx="22" fill="url(#p2)" fill-opacity=".22"/>
+<circle cx="58" cy="54" r="28" fill="#fb7185" fill-opacity=".16"/>
+<path d="M41 54c0-13 30-13 34 0-4 9-30 9-34 0Z" fill="none" stroke="#fecdd3" stroke-width="3"/>
+<circle cx="51" cy="54" r="3" fill="#fecdd3"/><circle cx="66" cy="54" r="3" fill="#fecdd3"/>
+<text x="96" y="52" fill="#fff" font-family="Arial" font-size="22" font-weight="700">Vision</text>
+<text x="28" y="156" fill="#ffe4e6" font-family="Arial" font-size="15">YOLOv8 · OpenCV · CLIP</text>
+<text x="28" y="181" fill="#ffe4e6" font-family="Arial" font-size="15">Image understanding</text>
+<text x="28" y="206" fill="#ffe4e6" font-family="Arial" font-size="15">Multimodal computer vision</text>
+<g transform="translate(28 250)"><rect width="78" height="30" rx="15" fill="#35101d"/><text x="39" y="20" text-anchor="middle" fill="#fecdd3" font-family="Arial" font-size="12">YOLOv8</text></g>
+<g transform="translate(113 250)"><rect width="82" height="30" rx="15" fill="#35101d"/><text x="41" y="20" text-anchor="middle" fill="#fecdd3" font-family="Arial" font-size="12">OpenCV</text></g>
+<g transform="translate(28 289)"><rect width="62" height="30" rx="15" fill="#35101d"/><text x="31" y="20" text-anchor="middle" fill="#fecdd3" font-family="Arial" font-size="12">CLIP</text></g>
+</g>
+
+<g transform="translate(608 118)">
+<rect width="265" height="340" rx="22" fill="#071226" fill-opacity=".88" stroke="#60a5fa" stroke-opacity=".7"/>
+<rect width="265" height="120" rx="22" fill="url(#p3)" fill-opacity=".22"/>
+<rect x="36" y="38" width="46" height="34" rx="5" fill="none" stroke="#bfdbfe" stroke-width="2"/><path d="M43 66l8-11 8 7 10-13" fill="none" stroke="#bfdbfe" stroke-width="2"/>
+<text x="96" y="52" fill="#fff" font-family="Arial" font-size="22" font-weight="700">Product</text>
+<text x="28" y="156" fill="#dbeafe" font-family="Arial" font-size="15">React · Next.js · Flutter</text>
+<text x="28" y="181" fill="#dbeafe" font-family="Arial" font-size="15">TypeScript · Full-Stack</text>
+<text x="28" y="206" fill="#dbeafe" font-family="Arial" font-size="15">APIs and product systems</text>
+<g transform="translate(28 250)"><rect width="68" height="30" rx="15" fill="#102446"/><text x="34" y="20" text-anchor="middle" fill="#bfdbfe" font-family="Arial" font-size="12">React</text></g>
+<g transform="translate(103 250)"><rect width="78" height="30" rx="15" fill="#102446"/><text x="39" y="20" text-anchor="middle" fill="#bfdbfe" font-family="Arial" font-size="12">Next.js</text></g>
+<g transform="translate(28 289)"><rect width="74" height="30" rx="15" fill="#102446"/><text x="37" y="20" text-anchor="middle" fill="#bfdbfe" font-family="Arial" font-size="12">Flutter</text></g>
+</g>
+
+<g transform="translate(888 118)">
+<rect width="265" height="340" rx="22" fill="#031b1b" fill-opacity=".9" stroke="#2dd4bf" stroke-opacity=".72"/>
+<rect width="265" height="120" rx="22" fill="url(#p4)" fill-opacity=".22"/>
+<rect x="34" y="38" width="46" height="34" rx="5" fill="none" stroke="#99f6e4" stroke-width="2"/><path d="M42 49h30M42 57h24M42 65h18" stroke="#99f6e4" stroke-width="2"/>
+<text x="96" y="52" fill="#fff" font-family="Arial" font-size="22" font-weight="700">Systems</text>
+<text x="28" y="156" fill="#ccfbf1" font-family="Arial" font-size="15">Networking · WebSockets</text>
+<text x="28" y="181" fill="#ccfbf1" font-family="Arial" font-size="15">Automation · Deployment</text>
+<text x="28" y="206" fill="#ccfbf1" font-family="Arial" font-size="15">Integrations and infra</text>
+<g transform="translate(28 250)"><rect width="74" height="30" rx="15" fill="#083b3a"/><text x="37" y="20" text-anchor="middle" fill="#99f6e4" font-family="Arial" font-size="12">Docker</text></g>
+<g transform="translate(111 250)"><rect width="66" height="30" rx="15" fill="#083b3a"/><text x="33" y="20" text-anchor="middle" fill="#99f6e4" font-family="Arial" font-size="12">APIs</text></g>
+<g transform="translate(28 289)"><rect width="76" height="30" rx="15" fill="#083b3a"/><text x="38" y="20" text-anchor="middle" fill="#99f6e4" font-family="Arial" font-size="12">DevOps</text></g>
+</g>
+</svg>
