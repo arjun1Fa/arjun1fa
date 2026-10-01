@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="820" viewBox="0 0 1100 820">
+<rect width="1100" height="820" rx="18" fill="#0D100F"/>
+<rect x="20" y="20" width="1060" height="780" rx="14" fill="#111512" stroke="#2A312C"/>
+
+<!-- Languages -->
+<g transform="translate(48 48)">
+  <text x="0" y="14" fill="#A3B18A" font-family="monospace" font-size="11" letter-spacing="1.4">01 / LANGUAGES</text>
+  <text x="0" y="40" fill="#858F89" font-family="Arial" font-size="13">Core programming languages.</text>
+
+  <g transform="translate(0 62)">
+    <g transform="translate(0 0)">
+      <rect width="242" height="94" rx="11" fill="#131815" stroke="#303933"/>
+      <rect x="18" y="18" width="40" height="40" rx="9" fill="#A3B18A"/>
+      <text x="38" y="44" text-anchor="middle" fill="#182018" font-family="monospace" font-size="12" font-weight="700">Py</text>
+      <text x="74" y="43" fill="#F1F3F0" font-family="Arial" font-size="17" font-weight="700">Python</text>
+      <text x="18" y="77" fill="#68736B" font-family="monospace" font-size="10">AI · BACKEND · AUTOMATION</text>
+    </g>
+    <g transform="translate(254 0)">
+      <rect width="242" height="94" rx="11" fill="#131815" stroke="#303933"/>
+      <rect x="18" y="18" width="40" height="40" rx="9" fill="#A3B18A"/>
+      <text x="38" y="44" text-anchor="middle" fill="#182018" font-family="monospace" font-size="11" font-weight="700">TS</text>
+      <text x="74" y="43" fill="#F1F3F0" font-family="Arial" font-size="17" font-weight="700">TypeScript</text>
+      <text x="18" y="77" fill="#68736B" font-family="monospace" font-size="10">WEB · APPS · NODE</text>
+    </g>
+    <g transform="translate(508 0)">
+      <rect width="242" height="94" rx="11" fill="#131815" stroke="#303933"/>
+      <rect x="18" y="18" width="40" height="40" rx="9" fill="#A3B18A"/>
+      <text x="38" y="44" text-anchor="middle" fill="#182018" font-family="monospace" font-size="11" font-weight="700">JS</text>
+      <text x="74" y="43" fill="#F1F3F0" font-family="Arial" font-size="17" font-weight="700">JavaScript</text>
+      <text x="18" y="77" fill="#68736B" font-family="monospace" font-size="10">WEB · NODE · SCRIPTING</text>
+    </g>
+    <g transform="translate(762 0)">
+      <rect width="290" height="94" rx="11" fill="#131815" stroke="#303933"/>
+      <rect x="18" y="18" width="40" height="40" rx="9" fill="#A3B18A"/>
+      <text x="38" y="44" text-anchor="middle" fill="#182018" font-family="monospace" font-size="12" font-weight="700">D</text>
+      <text x="74" y="43" fill="#F1F3F0" font-family="Arial" font-size="17" font-weight="700">Dart</text>
+      <text x="18" y="77" fill="#68736B" font-family="monospace" font-size="10">FLUTTER · MOBILE</text>
+    </g>
+
+    <g transform="translate(0 110)">
+      <rect width="242" height="78" rx="10" fill="#131815" stroke="#2A312C"/>
+      <text x="20" y="27" fill="#A3B18A" font-family="monospace" font-size="10">05</text>
+      <text x="20" y="54" fill="#F1F3F0" font-family="Arial" font-size="17" font-weight="700">Java</text>
+      <text x="20" y="69" fill="#68736B" font-family="monospace" font-size="9">APPLICATIONS</text>
+    </g>
+    <g transform="translate(254 110)">
+      <rect width="242" height="78" rx="10" fill="#131815" stroke="#2A312C"/>
+      <text x="20" y="27" fill="#A3B18A" font-family="monospace" font-size="10">06</text>
+      <text x="20" y="54" fill="#F1F3F0" font-family="Arial" font-size="17" font-weight="700">C</text>
+      <text x="20" y="69" fill="#68736B" font-family="monospace" font-size="9">SYSTEMS · FOUNDATIONS</text>
+    </g>
+    <g transform="translate(508 110)">
+      <rect width="242" height="78" rx="10" fill="#131815" stroke="#2A312C"/>
+      <text x="20" y="27" fill="#A3B18A" font-family="monospace" font-size="10">07</text>
+      <text x="20" y="54" fill="#F1F3F0" font-family="Arial" font-size="17" font-weight="700">SQL</text>
+      <text x="20" y="69" fill="#68736B" font-family="monospace" font-size="9">DATA · DATABASES</text>
+    </g>
+    <g transform="translate(762 110)">
+      <rect width="290" height="78" rx="10" fill="#151A17" stroke="#303933"/>
+      <text x="20" y="27" fill="#606B63" font-family="monospace" font-size="10">07 LANGUAGES</text>
+      <text x="20" y="54" fill="#B8C0BA" font-family="Arial" font-size="12">A broad base for building across layers.</text>
+    </g>
+  </g>
+</g>
+
+<!-- AI / ML -->
+<g transform="translate(48 310)">
+  <text x="0" y="14" fill="#A3B18A" font-family="monospace" font-size="11" letter-spacing="1.4">02 / AI + ML</text>
+  <text x="0" y="40" fill="#858F89" font-family="Arial" font-size="13">Frameworks and tools used for models, vision and LLM work.</text>
+
+  <g transform="translate(0 62)">
+    <rect width="1004" height="94" rx="11" fill="#131815" stroke="#2A312C"/>
+    <g transform="translate(18 18)">
+      <rect width="145" height="58" rx="9" fill="#151A17" stroke="#303933"/><text x="16" y="23" fill="#A3B18A" font-family="monospace" font-size="9">01</text><text x="16" y="45" fill="#F1F3F0" font-family="Arial" font-size="14" font-weight="700">PyTorch</text>
+    </g>
+    <g transform="translate(176 18)">
+      <rect width="145" height="58" rx="9" fill="#151A17" stroke="#303933"/><text x="16" y="23" fill="#A3B18A" font-family="monospace" font-size="9">02</text><text x="16" y="45" fill="#F1F3F0" font-family="Arial" font-size="14" font-weight="700">TensorFlow</text>
+    </g>
+    <g transform="translate(334 18)">
+      <rect width="145" height="58" rx="9" fill="#151A17" stroke="#303933"/><text x="16" y="23" fill="#A3B18A" font-family="monospace" font-size="9">03</text><text x="16" y="45" fill="#F1F3F0" font-family="Arial" font-size="14" font-weight="700">YOLOv8</text>
+    </g>
+    <g transform="translate(492 18)">
+      <rect width="145" height="58" rx="9" fill="#151A17" stroke="#303933"/><text x="16" y="23" fill="#A3B18A" font-family="monospace" font-size="9">04</text><text x="16" y="45" fill="#F1F3F0" font-family="Arial" font-size="14" font-weight="700">OpenCV</text>
+    </g>
+    <g transform="translate(650 18)">
+      <rect width="145" height="58" rx="9" fill="#151A17" stroke="#303933"/><text x="16" y="23" fill="#A3B18A" font-family="monospace" font-size="9">05</text><text x="16" y="45" fill="#F1F3F0" font-family="Arial" font-size="14" font-weight="700">CLIP</text>
+    </g>
+    <g transform="translate(808 18)">
+      <rect width="178" height="58" rx="9" fill="#151A17" stroke="#303933"/><text x="16" y="23" fill="#A3B18A" font-family="monospace" font-size="9">06</text><text x="16" y="45" fill="#F1F3F0" font-family="Arial" font-size="14" font-weight="700">LLMs</text>
+    </g>
+  </g>
+</g>
+
+<!-- Web / Backend -->
+<g transform="translate(48 490)">
+  <text x="0" y="14" fill="#A3B18A" font-family="monospace" font-size="11" letter-spacing="1.4">03 / WEB + BACKEND</text>
+  <text x="0" y="40" fill="#858F89" font-family="Arial" font-size="13">Application frameworks, runtimes and API tooling.</text>
+
+  <g transform="translate(0 62)">
+    <rect width="1004" height="88" rx="11" fill="#131815" stroke="#2A312C"/>
+    <g transform="translate(18 14)">
+      <rect width="165" height="60" rx="9" fill="#151A17" stroke="#303933"/><text x="16" y="23" fill="#A3B18A" font-family="monospace" font-size="9">01</text><text x="16" y="46" fill="#F1F3F0" font-family="Arial" font-size="14" font-weight="700">React</text>
+    </g>
+    <g transform="translate(195 14)">
+      <rect width="165" height="60" rx="9" fill="#151A17" stroke="#303933"/><text x="16" y="23" fill="#A3B18A" font-family="monospace" font-size="9">02</text><text x="16" y="46" fill="#F1F3F0" font-family="Arial" font-size="14" font-weight="700">Next.js</text>
+    </g>
+    <g transform="translate(372 14)">
+      <rect width="165" height="60" rx="9" fill="#151A17" stroke="#303933"/><text x="16" y="23" fill="#A3B18A" font-family="monospace" font-size="9">03</text><text x="16" y="46" fill="#F1F3F0" font-family="Arial" font-size="14" font-weight="700">Node.js</text>
+    </g>
+    <g transform="translate(549 14)">
+      <rect width="165" height="60" rx="9" fill="#151A17" stroke="#303933"/><text x="16" y="23" fill="#A3B18A" font-family="monospace" font-size="9">04</text><text x="16" y="46" fill="#F1F3F0" font-family="Arial" font-size="14" font-weight="700">FastAPI</text>
+    </g>
+    <g transform="translate(726 14)">
+      <rect width="160" height="60" rx="9" fill="#151A17" stroke="#303933"/><text x="16" y="23" fill="#A3B18A" font-family="monospace" font-size="9">05</text><text x="16" y="46" fill="#F1F3F0" font-family="Arial" font-size="14" font-weight="700">Flask</text>
+    </g>
+    <g transform="translate(898 14)">
+      <rect width="88" height="60" rx="9" fill="#151A17" stroke="#303933"/><text x="16" y="23" fill="#A3B18A" font-family="monospace" font-size="9">06</text><text x="16" y="46" fill="#F1F3F0" font-family="Arial" font-size="12" font-weight="700">Flutter</text>
+    </g>
+  </g>
+</g>
+
+<!-- Data / infra -->
+<g transform="translate(48 650)">
+  <text x="0" y="14" fill="#A3B18A" font-family="monospace" font-size="11" letter-spacing="1.4">04 / DATA + INFRASTRUCTURE</text>
+
+  <g transform="translate(0 34)">
+    <rect width="1004" height="76" rx="11" fill="#131815" stroke="#2A312C"/>
+    <text x="22" y="30" fill="#606B63" font-family="monospace" font-size="9">DATA</text>
+    <g transform="translate(82 13)"><rect width="156" height="50" rx="8" fill="#151A17" stroke="#303933"/><text x="16" y="31" fill="#F1F3F0" font-family="Arial" font-size="13" font-weight="700">PostgreSQL</text></g>
+    <g transform="translate(248 13)"><rect width="140" height="50" rx="8" fill="#151A17" stroke="#303933"/><text x="16" y="31" fill="#F1F3F0" font-family="Arial" font-size="13" font-weight="700">Supabase</text></g>
+    <g transform="translate(398 13)"><rect width="120" height="50" rx="8" fill="#151A17" stroke="#303933"/><text x="16" y="31" fill="#F1F3F0" font-family="Arial" font-size="13" font-weight="700">Prisma</text></g>
+    <text x="550" y="30" fill="#606B63" font-family="monospace" font-size="9">DELIVERY</text>
+    <g transform="translate(630 13)"><rect width="116" height="50" rx="8" fill="#151A17" stroke="#303933"/><text x="16" y="31" fill="#F1F3F0" font-family="Arial" font-size="13" font-weight="700">Docker</text></g>
+    <g transform="translate(756 13)"><rect width="230" height="50" rx="8" fill="#151A17" stroke="#303933"/><text x="16" y="31" fill="#F1F3F0" font-family="Arial" font-size="13" font-weight="700">GitHub Actions</text></g>
+  </g>
+</g>
+</svg>
