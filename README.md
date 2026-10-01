@@ -36,41 +36,11 @@ My work moves between **AI/ML, computer vision, backend engineering, product dev
 
 ---
 
-<details>
-<summary><b>What I'm exploring</b></summary>
+<div align="center">
 
-<br/>
+<img src="./assets/exploring-stack.svg" width="100%" alt="Current areas of exploration and technology stack"/>
 
-- Agentic AI and tool-using systems
-- Local and self-hosted AI
-- MCP and model-to-tool integrations
-- Computer vision for practical applications
-- End-to-end products from prototype to deployment
-
-</details>
-
-<details>
-<summary><b>Stack</b></summary>
-
-<br/>
-
-**Languages**
-
-<code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>Dart</code> <code>Java</code> <code>C</code> <code>SQL</code>
-
-**AI / ML**
-
-<code>PyTorch</code> <code>TensorFlow</code> <code>YOLOv8</code> <code>OpenCV</code> <code>CLIP</code> <code>LLMs</code>
-
-**Web / Backend**
-
-<code>React</code> <code>Next.js</code> <code>Node.js</code> <code>FastAPI</code> <code>Flask</code>
-
-**Infrastructure**
-
-<code>PostgreSQL</code> <code>Supabase</code> <code>Prisma</code> <code>Docker</code> <code>GitHub Actions</code>
-
-</details>
+</div>
 
 ---
 
