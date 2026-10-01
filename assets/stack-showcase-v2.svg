@@ -4,8 +4,8 @@
 
 <!-- Languages -->
 <g transform="translate(48 48)">
-  <text x="0" y="14" fill="#A3B18A" font-family="monospace" font-size="11" letter-spacing="1.4">01 / LANGUAGES</text>
-  <text x="0" y="40" fill="#858F89" font-family="Arial" font-size="13">Core programming languages.</text>
+  <text x="0" y="14" fill="#A3B18A" font-family="monospace" font-size="14" font-weight="700" letter-spacing="1.8">01 / LANGUAGES</text>
+  <text x="0" y="40" fill="#858F89" font-family="Arial" font-size="14" font-weight="500">Core programming languages.</text>
 
   <g transform="translate(0 62)">
     <g transform="translate(0 0)">
@@ -65,8 +65,8 @@
 
 <!-- AI / ML -->
 <g transform="translate(48 310)">
-  <text x="0" y="14" fill="#A3B18A" font-family="monospace" font-size="11" letter-spacing="1.4">02 / AI + ML</text>
-  <text x="0" y="40" fill="#858F89" font-family="Arial" font-size="13">Frameworks and tools used for models, vision and LLM work.</text>
+  <text x="0" y="14" fill="#A3B18A" font-family="monospace" font-size="14" font-weight="700" letter-spacing="1.8">02 / AI + ML</text>
+  <text x="0" y="40" fill="#858F89" font-family="Arial" font-size="14" font-weight="500">Frameworks and tools used for models, vision and LLM work.</text>
 
   <g transform="translate(0 62)">
     <rect width="1004" height="94" rx="11" fill="#131815" stroke="#2A312C"/>
@@ -93,8 +93,8 @@
 
 <!-- Web / Backend -->
 <g transform="translate(48 490)">
-  <text x="0" y="14" fill="#A3B18A" font-family="monospace" font-size="11" letter-spacing="1.4">03 / WEB + BACKEND</text>
-  <text x="0" y="40" fill="#858F89" font-family="Arial" font-size="13">Application frameworks, runtimes and API tooling.</text>
+  <text x="0" y="14" fill="#A3B18A" font-family="monospace" font-size="14" font-weight="700" letter-spacing="1.8">03 / WEB + BACKEND</text>
+  <text x="0" y="40" fill="#858F89" font-family="Arial" font-size="14" font-weight="500">Application frameworks, runtimes and API tooling.</text>
 
   <g transform="translate(0 62)">
     <rect width="1004" height="88" rx="11" fill="#131815" stroke="#2A312C"/>
@@ -121,7 +121,7 @@
 
 <!-- Data / infra -->
 <g transform="translate(48 650)">
-  <text x="0" y="14" fill="#A3B18A" font-family="monospace" font-size="11" letter-spacing="1.4">04 / DATA + INFRASTRUCTURE</text>
+  <text x="0" y="14" fill="#A3B18A" font-family="monospace" font-size="14" font-weight="700" letter-spacing="1.8">04 / DATA + INFRASTRUCTURE</text>
 
   <g transform="translate(0 34)">
     <rect width="1004" height="76" rx="11" fill="#131815" stroke="#2A312C"/>
