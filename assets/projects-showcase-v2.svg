@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="690" viewBox="0 0 1000 690">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1000" y2="690"><stop stop-color="#05070b"/><stop offset=".55" stop-color="#0b1220"/><stop offset="1" stop-color="#160b14"/></linearGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern>
+<filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="1000" height="690" rx="28" fill="url(#bg)"/><rect width="1000" height="690" rx="28" fill="url(#grid)"/>
+<circle cx="120" cy="120" r="140" fill="#7c3aed" fill-opacity=".08" filter="url(#glow)"/><circle cx="880" cy="570" r="150" fill="#14b8a6" fill-opacity=".06" filter="url(#glow)"/>
+<text x="42" y="52" fill="#fff" font-family="Arial" font-size="29" font-weight="700">🚀 THINGS I'VE BUILT</text>
+<text x="42" y="80" fill="#9ca3af" font-family="Arial" font-size="15">A few projects, experiments, and systems — curated.</text>
+
+<g transform="translate(35 112)">
+<rect width="455" height="245" rx="22" fill="#081716" stroke="#2dd4bf" stroke-opacity=".65"/><rect width="455" height="92" rx="22" fill="#083b3a" fill-opacity=".65"/>
+<circle cx="48" cy="45" r="28" fill="#14b8a6" fill-opacity=".22"/><path d="M34 37h27a8 8 0 0 1 8 8v8a8 8 0 0 1-8 8H49l-7 7v-7h-7a8 8 0 0 1-8-8v-8a8 8 0 0 1 8-8Z" fill="none" stroke="#99f6e4" stroke-width="2"/>
+<text x="88" y="51" fill="#fff" font-family="Arial" font-size="21" font-weight="700">Smartilee</text>
+<text x="26" y="125" fill="#ccfbf1" font-family="Arial" font-size="16" font-weight="700">AI-Powered WhatsApp Commerce</text>
+<text x="26" y="151" fill="#cbd5e1" font-family="Arial" font-size="14">Intent, sentiment, personalisation,</text><text x="26" y="172" fill="#cbd5e1" font-family="Arial" font-size="14">churn prediction and automation.</text>
+<g transform="translate(26 197)"><rect width="54" height="27" rx="14" fill="#123534"/><text x="27" y="18" text-anchor="middle" fill="#99f6e4" font-family="Arial" font-size="11">LLMs</text></g>
+<g transform="translate(88 197)"><rect width="62" height="27" rx="14" fill="#123534"/><text x="31" y="18" text-anchor="middle" fill="#99f6e4" font-family="Arial" font-size="11">Flask</text></g>
+<g transform="translate(158 197)"><rect width="76" height="27" rx="14" fill="#123534"/><text x="38" y="18" text-anchor="middle" fill="#99f6e4" font-family="Arial" font-size="11">Node.js</text></g>
+<g transform="translate(242 197)"><rect width="72" height="27" rx="14" fill="#123534"/><text x="36" y="18" text-anchor="middle" fill="#99f6e4" font-family="Arial" font-size="11">Flutter</text></g>
+</g>
+
+<g transform="translate(510 112)">
+<rect width="455" height="245" rx="22" fill="#0b1624" stroke="#38bdf8" stroke-opacity=".65"/><rect width="455" height="92" rx="22" fill="#0c2a40" fill-opacity=".65"/>
+<circle cx="48" cy="45" r="28" fill="#0ea5e9" fill-opacity=".22"/><path d="M33 54h26M40 47h20M47 40h13" stroke="#bae6fd" stroke-width="2"/>
+<text x="88" y="51" fill="#fff" font-family="Arial" font-size="21" font-weight="700">Hospital Nav</text>
+<text x="26" y="125" fill="#dff6ff" font-family="Arial" font-size="16" font-weight="700">Indoor Navigation + Computer Vision</text>
+<text x="26" y="151" fill="#cbd5e1" font-family="Arial" font-size="14">A* routing, Wi-Fi fingerprints,</text><text x="26" y="172" fill="#cbd5e1" font-family="Arial" font-size="14">CLIP matching, AR and voice guidance.</text>
+<g transform="translate(26 197)"><rect width="72" height="27" rx="14" fill="#11304a"/><text x="36" y="18" text-anchor="middle" fill="#bae6fd" font-family="Arial" font-size="11">Flutter</text></g>
+<g transform="translate(106 197)"><rect width="70" height="27" rx="14" fill="#11304a"/><text x="35" y="18" text-anchor="middle" fill="#bae6fd" font-family="Arial" font-size="11">FastAPI</text></g>
+<g transform="translate(184 197)"><rect width="54" height="27" rx="14" fill="#11304a"/><text x="27" y="18" text-anchor="middle" fill="#bae6fd" font-family="Arial" font-size="11">CLIP</text></g>
+<g transform="translate(246 197)"><rect width="42" height="27" rx="14" fill="#11304a"/><text x="21" y="18" text-anchor="middle" fill="#bae6fd" font-family="Arial" font-size="11">AR</text></g>
+</g>
+
+<g transform="translate(35 385)">
+<rect width="455" height="245" rx="22" fill="#12150b" stroke="#a3e635" stroke-opacity=".65"/><rect width="455" height="92" rx="22" fill="#263510" fill-opacity=".65"/>
+<circle cx="48" cy="45" r="28" fill="#84cc16" fill-opacity=".20"/><path d="M32 55c8-18 29-18 39 0M38 44c4-9 18-9 26 0" fill="none" stroke="#d9f99d" stroke-width="2"/>
+<text x="88" y="51" fill="#fff" font-family="Arial" font-size="21" font-weight="700">Go Pashu</text>
+<text x="26" y="125" fill="#ecfccb" font-family="Arial" font-size="16" font-weight="700">AI for Agriculture</text>
+<text x="26" y="151" fill="#cbd5e1" font-family="Arial" font-size="14">Farm management combined with</text><text x="26" y="172" fill="#cbd5e1" font-family="Arial" font-size="14">disease detection workflows.</text>
+<g transform="translate(26 197)"><rect width="72" height="27" rx="14" fill="#263714"/><text x="36" y="18" text-anchor="middle" fill="#d9f99d" font-family="Arial" font-size="11">Flutter</text></g>
+<g transform="translate(106 197)"><rect width="62" height="27" rx="14" fill="#263714"/><text x="31" y="18" text-anchor="middle" fill="#d9f99d" font-family="Arial" font-size="11">Flask</text></g>
+<g transform="translate(176 197)"><rect width="82" height="27" rx="14" fill="#263714"/><text x="41" y="18" text-anchor="middle" fill="#d9f99d" font-family="Arial" font-size="11">PostgreSQL</text></g>
+</g>
+
+<g transform="translate(510 385)">
+<rect width="455" height="245" rx="22" fill="#1a1209" stroke="#fb923c" stroke-opacity=".68"/><rect width="455" height="92" rx="22" fill="#4a2209" fill-opacity=".65"/>
+<circle cx="48" cy="45" r="28" fill="#f97316" fill-opacity=".20"/><path d="M34 50c8-11 21-15 31-8 5 4 8 9 8 15H34Z" fill="none" stroke="#fed7aa" stroke-width="2"/><circle cx="50" cy="50" r="3" fill="#fed7aa"/>
+<text x="88" y="51" fill="#fff" font-family="Arial" font-size="21" font-weight="700">NutriVision</text>
+<text x="26" y="125" fill="#ffedd5" font-family="Arial" font-size="16" font-weight="700">Computer Vision for Food</text>
+<text x="26" y="151" fill="#cbd5e1" font-family="Arial" font-size="14">Food detection, portion estimation</text><text x="26" y="172" fill="#cbd5e1" font-family="Arial" font-size="14">and nutritional analysis.</text>
+<g transform="translate(26 197)"><rect width="72" height="27" rx="14" fill="#4a220f"/><text x="36" y="18" text-anchor="middle" fill="#fed7aa" font-family="Arial" font-size="11">YOLOv8</text></g>
+<g transform="translate(106 197)"><rect width="70" height="27" rx="14" fill="#4a220f"/><text x="35" y="18" text-anchor="middle" fill="#fed7aa" font-family="Arial" font-size="11">PyTorch</text></g>
+<g transform="translate(184 197)"><rect width="70" height="27" rx="14" fill="#4a220f"/><text x="35" y="18" text-anchor="middle" fill="#fed7aa" font-family="Arial" font-size="11">OpenCV</text></g>
+<g transform="translate(262 197)"><rect width="72" height="27" rx="14" fill="#4a220f"/><text x="36" y="18" text-anchor="middle" fill="#fed7aa" font-family="Arial" font-size="11">Flutter</text></g>
+</g>
+
+<text x="950" y="662" text-anchor="end" fill="#64748b" font-family="monospace" font-size="12">04 PROJECTS / 00 EXTRA CARDS</text>
+</svg>

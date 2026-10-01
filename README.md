@@ -91,7 +91,7 @@ My work moves across **AI/ML, computer vision, backend engineering, product deve
 <div align="center">
 
 <a href="https://github.com/arjun1Fa?tab=repositories">
-<img src="./assets/projects-showcase.svg" width="100%" alt="Visual project showcase featuring CET ARMADA, Smartilee, Meetily Local AI, Hospital Nav, Go Pashu and NutriVision"/>
+<img src="./assets/projects-showcase-v2.svg" width="100%" alt="Visual project showcase featuring CET ARMADA, Smartilee, Meetily Local AI, Hospital Nav, Go Pashu and NutriVision"/>
 </a>
 
 </div>
