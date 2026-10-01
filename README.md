@@ -91,12 +91,8 @@ My work moves between **AI/ML, computer vision, backend engineering, product dev
 <div align="center">
 
 <a href="https://github.com/arjun1Fa">
-  <img src="https://ghchart.rshah.org/A3B18A/arjun1Fa" width="100%" alt="GitHub contribution calendar"/>
+  <img src="./assets/contribution-count.svg" width="100%" alt="GitHub contributions count"/>
 </a>
-
-<br/>
-
-<sub>Contribution calendar · rolling one-year activity</sub>
 
 </div>
 
