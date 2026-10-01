@@ -104,15 +104,19 @@ My work moves across **AI/ML, computer vision, backend engineering, product deve
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun1Fa&layout=compact&hide_border=true&langs_count=8&custom_title=LANGUAGE%20MIX" height="180" alt="Top languages"/>
+<img src="./assets/github-activity-dashboard.svg" width="100%" alt="Animated GitHub activity dashboard"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun1Fa&hide_border=true&mode=weekly" height="170" alt="GitHub streak"/>
+<a href="https://github.com/arjun1Fa?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun1Fa&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=9DA7B3&icon_color=8B5CF6&custom_title=LANGUAGE%20MIX" height="175" alt="GitHub language mix"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun1Fa&hide_border=true&area=true&custom_title=CONTRIBUTION%20SIGNAL" width="94%" alt="GitHub contribution graph"/>
+<a href="https://github.com/arjun1Fa">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun1Fa&hide_border=true&background=0D1117&ring=8B5CF6&fire=F472B6&currStreakLabel=E6EDF3&sideLabels=9DA7B3&dates=7D8590&currStreakNum=FFFFFF&sideNums=FFFFFF" height="175" alt="GitHub contribution streak"/>
+</a>
 
 </div>
 
