@@ -73,7 +73,7 @@ My work moves between **AI/ML, computer vision, backend engineering, product dev
 <div align="center">
 
 <a href="https://github.com/arjun1Fa">
-  <img src="./assets/contribution-count.svg" width="100%" alt="GitHub contributions and streaks"/>
+  <img src="./assets/github-activity-v2.svg" width="100%" alt="GitHub contributions and streaks"/>
 </a>
 
 </div>
