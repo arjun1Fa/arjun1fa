@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="270" viewBox="0 0 1100 270">
+<rect width="1100" height="270" rx="18" fill="#0D100F"/>
+<rect x="20" y="20" width="1060" height="230" rx="14" fill="#111512" stroke="#2A312C"/>
+
+<text x="50" y="58" fill="#A3B18A" font-family="monospace" font-size="11" letter-spacing="1.6">CURRENTLY / EXPLORING</text>
+<line x1="50" y1="76" x2="1050" y2="76" stroke="#2A312C"/>
+
+<g transform="translate(50 104)">
+  <g>
+    <circle cx="6" cy="6" r="4" fill="#A3B18A"/><text x="20" y="11" fill="#C8CEC9" font-family="Arial" font-size="14">Agentic AI and tool-using systems</text>
+  </g>
+  <g transform="translate(0 30)">
+    <circle cx="6" cy="6" r="4" fill="#A3B18A"/><text x="20" y="11" fill="#C8CEC9" font-family="Arial" font-size="14">Local and self-hosted AI</text>
+  </g>
+  <g transform="translate(0 60)">
+    <circle cx="6" cy="6" r="4" fill="#A3B18A"/><text x="20" y="11" fill="#C8CEC9" font-family="Arial" font-size="14">MCP and model-to-tool integrations</text>
+  </g>
+  <g transform="translate(0 90)">
+    <circle cx="6" cy="6" r="4" fill="#A3B18A"/><text x="20" y="11" fill="#C8CEC9" font-family="Arial" font-size="14">Computer vision for practical applications</text>
+  </g>
+
+  <g transform="translate(535 0)">
+    <circle cx="6" cy="6" r="4" fill="#A3B18A"/><text x="20" y="11" fill="#C8CEC9" font-family="Arial" font-size="14">End-to-end products from prototype to deployment</text>
+  </g>
+</g>
+
+<text x="1050" y="226" text-anchor="end" fill="#606B63" font-family="monospace" font-size="10">always learning / always building</text>
+</svg>
