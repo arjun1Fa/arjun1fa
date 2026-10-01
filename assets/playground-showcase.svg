@@ -1,9 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
 <rect width="1200" height="500" rx="24" fill="#0D100F"/>
-<text x="50" y="56" fill="#F1F3F0" font-family="Arial" font-size="28" font-weight="700">THE PLAYGROUND</text>
-<text x="50" y="84" fill="#858F89" font-family="Arial" font-size="14">A few areas I keep coming back to.</text>
-
-<g transform="translate(44 120)">
+<g transform="translate(44 62)">
   <rect width="260" height="310" rx="12" fill="#131815" stroke="#2A312C"/>
   <rect x="22" y="22" width="34" height="34" rx="7" fill="#A3B18A"/>
   <text x="39" y="45" text-anchor="middle" fill="#182018" font-family="monospace" font-size="14" font-weight="700">01</text>
@@ -17,7 +14,7 @@
   <text x="22" y="274" fill="#68736B" font-family="monospace" font-size="12">LLMS / AGENTS</text>
 </g>
 
-<g transform="translate(324 120)">
+<g transform="translate(324 62)">
   <rect width="260" height="310" rx="12" fill="#131815" stroke="#2A312C"/>
   <rect x="22" y="22" width="34" height="34" rx="7" fill="#A3B18A"/>
   <text x="39" y="45" text-anchor="middle" fill="#182018" font-family="monospace" font-size="14" font-weight="700">02</text>
@@ -31,7 +28,7 @@
   <text x="22" y="274" fill="#68736B" font-family="monospace" font-size="12">OPENCV / CLIP</text>
 </g>
 
-<g transform="translate(604 120)">
+<g transform="translate(604 62)">
   <rect width="260" height="310" rx="12" fill="#131815" stroke="#2A312C"/>
   <rect x="22" y="22" width="34" height="34" rx="7" fill="#A3B18A"/>
   <text x="39" y="45" text-anchor="middle" fill="#182018" font-family="monospace" font-size="14" font-weight="700">03</text>
@@ -45,7 +42,7 @@
   <text x="22" y="274" fill="#68736B" font-family="monospace" font-size="12">WEB / MOBILE</text>
 </g>
 
-<g transform="translate(884 120)">
+<g transform="translate(884 62)">
   <rect width="260" height="310" rx="12" fill="#131815" stroke="#2A312C"/>
   <rect x="22" y="22" width="34" height="34" rx="7" fill="#A3B18A"/>
   <text x="39" y="45" text-anchor="middle" fill="#182018" font-family="monospace" font-size="14" font-weight="700">04</text>
