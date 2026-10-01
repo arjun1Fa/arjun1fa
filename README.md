@@ -1,149 +1,224 @@
-# Hey, I'm Arjun 👋
-
-### AI/ML • Computer Vision • Full-Stack • Systems
-
-I'm a Computer Science student who likes turning **real problems into working software**.
-
-My work sits between AI, backend systems, product development, and developer tooling — from computer vision and local AI to full-stack applications.
-
-<p>
-<a href="https://github.com/arjun1Fa"><img src="https://img.shields.io/badge/GitHub-arjun1Fa-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:culerarjun@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/_winter.a_"><img src="https://img.shields.io/badge/Instagram-_winter.a_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-## 🚀 What I Build
-
-I like projects that are **useful first, impressive second**.
-
-<p align="center"><strong>Problem → Understand → Build → Connect → Ship</strong></p>
-
-| Area | Focus |
-|---|---|
-| 🤖 AI / ML | Deep Learning, LLM apps, AI agents, Local AI |
-| 👁️ Computer Vision | YOLOv8, OpenCV, image & multimodal AI |
-| ⚙️ Backend | Node.js, Flask, FastAPI, REST, realtime |
-| 🌐 Frontend | React, Next.js, TypeScript, Tailwind |
-| 📱 Mobile | Flutter, Dart, camera-based apps |
-| 🗄️ Data | PostgreSQL, Supabase, Prisma |
-| ☁️ DevOps | Docker, GitHub Actions, deployment |
-| 🔧 Systems | Networking, WebSockets, integrations, automation |
-
----
-
-## 🧩 Featured Projects
-
-### 🛰️ CET × ARMADA
-**Satellite Mesh Communication**
-
-Exploring satellite mesh communication and resilient distributed networking.
-
-<code>Go</code> <code>Networking</code> <code>Distributed Systems</code>
-
-### 💬 Smartilee
-**AI-Powered WhatsApp Commerce**
-
-AI-powered customer intent, sentiment, personalised responses, churn prediction, automated follow-ups and human handoff.
-
-<code>LLMs</code> <code>Flask</code> <code>Node.js</code> <code>Supabase</code> <code>Flutter</code>
-
-### 🎙️ Meetily × Local AI
-**Privacy-First Meeting Intelligence**
-
-Exploring local-first transcription, summarisation and self-hosted AI workflows.
-
-<code>Local AI</code> <code>Speech</code> <code>LLMs</code>
-
-### 🏥 Hospital Nav
-**Indoor Navigation + Computer Vision**
-
-A navigation system combining A* routing, Wi-Fi fingerprinting, CLIP visual matching, AR wayfinding and voice guidance.
-
-<code>Flutter</code> <code>FastAPI</code> <code>CLIP</code> <code>A*</code> <code>AR</code>
-
-### 🐄 Go Pashu
-**AI for Agriculture**
-
-A mobile-first system combining farm management and disease detection into a practical workflow for farmers.
-
-<code>Flutter</code> <code>Flask</code> <code>PostgreSQL</code>
-
-### 🥗 NutriVision
-**Computer Vision for Food**
-
-Food detection, portion estimation and nutritional analysis from a mobile camera.
-
-<code>YOLOv8</code> <code>PyTorch</code> <code>OpenCV</code> <code>Flutter</code>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-Python · TypeScript · JavaScript · Dart · Java · C · SQL
-
-### AI / ML
-PyTorch · TensorFlow · YOLOv8 · OpenCV · CLIP · LLMs
-
-### Web / Mobile / Backend
-React · Next.js · Node.js · FastAPI · Flask · Flutter
-
-### Data / Infrastructure
-PostgreSQL · Supabase · Prisma · Docker · GitHub Actions
-
----
-
-## 📊 GitHub
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arjun1Fa&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats" height="170"/>
+<a href="https://github.com/arjun1Fa">
+  <img src="./assets/animated-hero.svg" width="100%" alt="Arjun A S — animated developer profile hero"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun1Fa&layout=compact&hide_border=true&langs_count=8" height="170"/>
+<br/>
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=AI%2FML+%E2%80%A2+Computer+Vision+%E2%80%A2+Full-Stack;Building+useful+things%2C+not+just+demos;From+model+%E2%86%92+API+%E2%86%92+product+%E2%86%92+deployment;Curious+by+default.+Shipping+by+choice." alt="Typing animation"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun1Fa&hide_border=true&area=true" width="90%"/>
+<p>
+  <a href="https://github.com/arjun1Fa?tab=repositories"><img src="https://img.shields.io/badge/Projects-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:culerarjun@gmail.com"><img src="https://img.shields.io/badge/Let%27s_Talk-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/_winter.a_"><img src="https://img.shields.io/badge/Instagram-E11D48?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=arjun1Fa&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 🔭 Currently Exploring
+## ⚡ whoami
 
-🧠 Agentic AI  
-🖥️ Local / self-hosted AI  
-🔌 MCP and tool-connected agents  
-👁️ Computer vision in real applications  
-🏗️ Complete products instead of isolated demos
+I'm **Arjun**, a Computer Science student who enjoys turning messy real-world problems into software that actually works.
 
----
+My work moves across **AI/ML, computer vision, backend engineering, product development and systems** rather than staying inside one box.
 
-## 💭 How I Work
-
-> Build useful things.  
-> Learn by shipping.  
-> Break the problem down.  
-> Then make the system better.
-
-I enjoy moving between **research, experimentation, engineering, and product thinking** — especially when a rough idea becomes something people can actually use.
+> **Build useful things. Learn by shipping. Make the next version better.**
 
 ---
 
-## 🤝 Let's Build Something
+## 🧠 The Playground
 
-Have an interesting idea, project, or problem?
+<div align="center">
 
-**I'd rather build it than make a slide deck about building it.**
+| 🤖 AI | 👁️ Vision | 🌐 Product | ⚙️ Systems |
+|:---:|:---:|:---:|:---:|
+| LLM Apps | YOLOv8 | React / Next.js | Networking |
+| AI Agents | OpenCV | Flutter | WebSockets |
+| Local AI | CLIP | TypeScript | Automation |
+| Deep Learning | Multimodal | APIs | Deployment |
 
-<p align="center">
+</div>
+
+---
+
+## 🎮 Interactive Zone
+
+<details>
+<summary><b>🔮 What am I exploring right now?</b></summary>
+
+<br/>
+
+- **Agentic AI** — systems that can reason, use tools and execute workflows
+- **Local / self-hosted AI** — privacy-first model deployment
+- **MCP** — connecting models to tools and real systems
+- **Computer Vision** — making camera-based applications actually useful
+- **End-to-end products** — taking ideas from prototype to deployment
+
+</details>
+
+<details>
+<summary><b>🧰 My stack, by layer</b></summary>
+
+<br/>
+
+**Languages**
+
+<code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>Dart</code> <code>Java</code> <code>C</code> <code>SQL</code>
+
+**AI / ML**
+
+<code>PyTorch</code> <code>TensorFlow</code> <code>YOLOv8</code> <code>OpenCV</code> <code>CLIP</code> <code>LLMs</code>
+
+**Web / Backend**
+
+<code>React</code> <code>Next.js</code> <code>Node.js</code> <code>FastAPI</code> <code>Flask</code> <code>Express</code>
+
+**Mobile**
+
+<code>Flutter</code> <code>Dart</code>
+
+**Data / Infrastructure**
+
+<code>PostgreSQL</code> <code>Supabase</code> <code>Prisma</code> <code>Docker</code> <code>GitHub Actions</code>
+
+</details>
+
+---
+
+## 🚀 Things I’ve Built
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ CET × ARMADA
+**Satellite Mesh Communication**
+
+Exploring resilient distributed networking and satellite mesh communication.
+
+<code>Go</code> · <code>Networking</code> · <code>Distributed Systems</code>
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Smartilee
+**AI-Powered WhatsApp Commerce**
+
+Customer intent, sentiment, personalisation, churn prediction, automated follow-ups and human handoff.
+
+<code>LLMs</code> · <code>Flask</code> · <code>Node.js</code> · <code>Flutter</code>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ Meetily × Local AI
+**Privacy-First Meeting Intelligence**
+
+Local-first transcription, summarisation and self-hosted AI workflows.
+
+<code>Local AI</code> · <code>Speech</code> · <code>LLMs</code>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Hospital Nav
+**Indoor Navigation + Computer Vision**
+
+A* routing, Wi-Fi fingerprinting, CLIP visual matching, AR wayfinding and voice guidance.
+
+<code>Flutter</code> · <code>FastAPI</code> · <code>CLIP</code> · <code>AR</code>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐄 Go Pashu
+**AI for Agriculture**
+
+Farm management combined with disease detection in a mobile-first workflow.
+
+<code>Flutter</code> · <code>Flask</code> · <code>PostgreSQL</code>
+
+</td>
+<td width="50%" valign="top">
+
+### 🥗 NutriVision
+**Computer Vision for Food**
+
+Food detection, portion estimation and nutrition analysis from a mobile camera.
+
+<code>YOLOv8</code> · <code>PyTorch</code> · <code>OpenCV</code> · <code>Flutter</code>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📡 GitHub Telemetry
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arjun1Fa&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github&custom_title=ARJUN%20%2F%20GITHUB%20TELEMETRY" height="180" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun1Fa&layout=compact&hide_border=true&langs_count=8&custom_title=LANGUAGE%20MIX" height="180" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun1Fa&hide_border=true&mode=weekly" height="170" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun1Fa&hide_border=true&area=true&custom_title=CONTRIBUTION%20SIGNAL" width="94%" alt="GitHub contribution graph"/>
+
+</div>
+
+---
+
+## 🧪 Current Build Philosophy
+
+<div align="center">
+
+<h3>IDEA → UNDERSTAND → BUILD → CONNECT → SHIP 🚀</h3>
+
+<img src="https://img.shields.io/badge/01%20Understand-the%20problem-18181B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02%20Build-a%20working%20core-27272A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03%20Connect-the%20system-3F3F46?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04%20Ship-it-7C3AED?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./pixel-hero.gif" width="720" alt="Pixel art animation"/>
+
+### Have an interesting idea?
+
+**I’d rather build it than make a slide deck about building it.**
+
+<br/>
+
 <a href="https://github.com/arjun1Fa">GitHub</a>
-&nbsp;•&nbsp;
+&nbsp; • &nbsp;
 <a href="mailto:culerarjun@gmail.com">Email</a>
-&nbsp;•&nbsp;
+&nbsp; • &nbsp;
 <a href="https://instagram.com/_winter.a_">Instagram</a>
-</p>
 
-<p align="center"><sub>good ideas deserve good execution.</sub></p>
+<br/><br/>
+
+<sub><i>good ideas deserve good execution.</i></sub>
+
+</div>
