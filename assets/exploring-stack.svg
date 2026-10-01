@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="560" viewBox="0 0 1100 560">
+<rect width="1100" height="560" rx="18" fill="#0D100F"/>
+<rect x="20" y="20" width="1060" height="520" rx="14" fill="#111512" stroke="#2A312C"/>
+
+<text x="48" y="58" fill="#F1F3F0" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">WHAT I'M EXPLORING</text>
+<text x="48" y="84" fill="#858F89" font-family="Arial, Helvetica, sans-serif" font-size="13">The tools and ideas currently getting my attention.</text>
+
+<g transform="translate(48 112)">
+  <rect width="1004" height="160" rx="10" fill="#131815" stroke="#2A312C"/>
+  <line x1="270" y1="22" x2="270" y2="138" stroke="#2A312C"/>
+  <text x="24" y="32" fill="#A3B18A" font-family="monospace" font-size="11">NOW / 01</text>
+  <text x="24" y="68" fill="#F1F3F0" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Exploring</text>
+
+  <text x="302" y="36" fill="#C8CEC9" font-family="Arial, Helvetica, sans-serif" font-size="14">Agentic AI and tool-using systems</text>
+  <text x="302" y="61" fill="#C8CEC9" font-family="Arial, Helvetica, sans-serif" font-size="14">Local and self-hosted AI</text>
+  <text x="302" y="86" fill="#C8CEC9" font-family="Arial, Helvetica, sans-serif" font-size="14">MCP and model-to-tool integrations</text>
+  <text x="302" y="111" fill="#C8CEC9" font-family="Arial, Helvetica, sans-serif" font-size="14">Computer vision for practical applications</text>
+  <text x="302" y="136" fill="#C8CEC9" font-family="Arial, Helvetica, sans-serif" font-size="14">End-to-end products from prototype to deployment</text>
+</g>
+
+<text x="48" y="316" fill="#F1F3F0" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">STACK</text>
+<text x="48" y="342" fill="#858F89" font-family="Arial, Helvetica, sans-serif" font-size="13">A practical toolkit, grouped by where I use it.</text>
+
+<g transform="translate(48 372)">
+  <rect width="1004" height="128" rx="10" fill="#131815" stroke="#2A312C"/>
+  <text x="24" y="30" fill="#A3B18A" font-family="monospace" font-size="11">01</text>
+  <text x="24" y="56" fill="#F1F3F0" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">Languages</text>
+  <text x="24" y="82" fill="#B8C0BA" font-family="monospace" font-size="12">PYTHON · TYPESCRIPT · JAVASCRIPT · DART · JAVA · C · SQL</text>
+  <line x1="24" y1="96" x2="980" y2="96" stroke="#232A25"/>
+  <text x="24" y="116" fill="#606B63" font-family="monospace" font-size="10">general purpose / application code</text>
+</g>
+
+<g transform="translate(48 512)">
+  <rect x="0" y="0" width="238" height="0" fill="none"/>
+</g>
+
+<g transform="translate(48 512)">
+  <rect width="310" height="0" fill="none"/>
+</g>
+
+<!-- lower rows are represented compactly in the same visual system -->
+<g transform="translate(48 512)">
+  <rect width="1004" height="0" fill="none"/>
+</g>
+</svg>
