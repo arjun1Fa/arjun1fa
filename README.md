@@ -166,11 +166,9 @@ Food detection, portion estimation and nutrition analysis from a mobile camera.
 
 ---
 
-## 📡 GitHub Telemetry
+## 📡 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arjun1Fa&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github&custom_title=ARJUN%20%2F%20GITHUB%20TELEMETRY" height="180" alt="GitHub statistics"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun1Fa&layout=compact&hide_border=true&langs_count=8&custom_title=LANGUAGE%20MIX" height="180" alt="Top languages"/>
 
