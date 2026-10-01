@@ -73,7 +73,7 @@ My work moves between **AI/ML, computer vision, backend engineering, product dev
 <div align="center">
 
 <a href="https://github.com/arjun1Fa">
-  <img src="./assets/github-activity-v2.svg" width="100%" alt="GitHub contributions and streaks"/>
+  <img src="https://streak-stats.demolab.com/?user=arjun1Fa&hide_border=true&border_radius=12&background=0D100F&stroke=2A312C&ring=A3B18A&fire=A3B18A&currStreakNum=F1F3F0&sideNums=F1F3F0&currStreakLabel=A3B18A&sideLabels=858F89&dates=606B63&timezone=Asia%2FKolkata" width="100%" alt="GitHub total contributions, current streak and longest streak"/>
 </a>
 
 </div>
