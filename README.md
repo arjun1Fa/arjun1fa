@@ -34,17 +34,14 @@ My work moves across **AI/ML, computer vision, backend engineering, product deve
 
 <div align="center">
 
-| 🤖 AI | 👁️ Vision | 🌐 Product | ⚙️ Systems |
-|:---:|:---:|:---:|:---:|
-| LLM Apps | YOLOv8 | React / Next.js | Networking |
-| AI Agents | OpenCV | Flutter | WebSockets |
-| Local AI | CLIP | TypeScript | Automation |
-| Deep Learning | Multimodal | APIs | Deployment |
+<a href="https://github.com/arjun1Fa">
+<img src="./assets/playground-showcase.svg" width="100%" alt="Visual showcase of AI, Vision, Product and Systems"/>
+</a>
 
 </div>
 
 ---
-
+ 
 ## 🎮 Interactive Zone
 
 <details>
@@ -93,76 +90,13 @@ My work moves across **AI/ML, computer vision, backend engineering, product deve
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛰️ CET × ARMADA
-**Satellite Mesh Communication**
-
-Exploring resilient distributed networking and satellite mesh communication.
-
-<code>Go</code> · <code>Networking</code> · <code>Distributed Systems</code>
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Smartilee
-**AI-Powered WhatsApp Commerce**
-
-Customer intent, sentiment, personalisation, churn prediction, automated follow-ups and human handoff.
-
-<code>LLMs</code> · <code>Flask</code> · <code>Node.js</code> · <code>Flutter</code>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎙️ Meetily × Local AI
-**Privacy-First Meeting Intelligence**
-
-Local-first transcription, summarisation and self-hosted AI workflows.
-
-<code>Local AI</code> · <code>Speech</code> · <code>LLMs</code>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Hospital Nav
-**Indoor Navigation + Computer Vision**
-
-A* routing, Wi-Fi fingerprinting, CLIP visual matching, AR wayfinding and voice guidance.
-
-<code>Flutter</code> · <code>FastAPI</code> · <code>CLIP</code> · <code>AR</code>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐄 Go Pashu
-**AI for Agriculture**
-
-Farm management combined with disease detection in a mobile-first workflow.
-
-<code>Flutter</code> · <code>Flask</code> · <code>PostgreSQL</code>
-
-</td>
-<td width="50%" valign="top">
-
-### 🥗 NutriVision
-**Computer Vision for Food**
-
-Food detection, portion estimation and nutrition analysis from a mobile camera.
-
-<code>YOLOv8</code> · <code>PyTorch</code> · <code>OpenCV</code> · <code>Flutter</code>
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/arjun1Fa?tab=repositories">
+<img src="./assets/projects-showcase.svg" width="100%" alt="Visual project showcase featuring CET ARMADA, Smartilee, Meetily Local AI, Hospital Nav, Go Pashu and NutriVision"/>
+</a>
 
 </div>
+
+> Explore the repositories to see the code, experiments, and systems behind these builds.
 
 ---
 
