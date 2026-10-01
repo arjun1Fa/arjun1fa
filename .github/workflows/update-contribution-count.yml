@@ -1,0 +1,68 @@
+name: Update contribution count
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile
+        uses: actions/checkout@v4
+
+      - name: Fetch GitHub contribution total
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          FROM="$(date -u -d '1 year ago' +%Y-%m-%dT%H:%M:%SZ)"
+          TO="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+
+          TOTAL="$(gh api graphql             -f query='query($login: String!, $from: DateTime!, $to: DateTime!) {
+              user(login: $login) {
+                contributionsCollection(from: $from, to: $to) {
+                  contributionCalendar {
+                    totalContributions
+                  }
+                }
+              }
+            }'             -f login='arjun1Fa'             -f from="$FROM"             -f to="$TO"             --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')"
+
+          test -n "$TOTAL"
+          printf '%s\n' "$TOTAL" > /tmp/contribution-total
+
+      - name: Render contribution count SVG
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          total = Path("/tmp/contribution-total").read_text().strip()
+          svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
+          <rect width="900" height="150" rx="12" fill="#0D100F"/>
+          <text x="42" y="38" fill="#7F8A83" font-family="monospace" font-size="12" letter-spacing="2">GITHUB CONTRIBUTIONS</text>
+          <text x="42" y="94" fill="#F1F3F0" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700">{int(total):,}</text>
+          <text x="250" y="91" fill="#A3B18A" font-family="Arial, Helvetica, sans-serif" font-size="17">contributions in the last year</text>
+          <line x1="42" y1="116" x2="858" y2="116" stroke="#2A312C"/>
+          <text x="42" y="136" fill="#606B63" font-family="monospace" font-size="10">updates automatically</text>
+          </svg>"""
+
+          Path("assets/contribution-count.svg").write_text(svg)
+          PY
+
+      - name: Commit when changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-count.svg
+
+          if git diff --cached --quiet; then
+            echo "Contribution count unchanged."
+            exit 0
+          fi
+
+          git commit -m "chore: update GitHub contribution count"
+          git push
