@@ -1,9 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="680" viewBox="0 0 1000 680">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620">
 <rect width="1000" height="680" rx="24" fill="#0D100F"/>
-<text x="42" y="52" fill="#F1F3F0" font-family="Arial" font-size="29" font-weight="700">THINGS I'VE BUILT</text>
-<text x="42" y="80" fill="#858F89" font-family="Arial" font-size="14">A small selection of projects and experiments.</text>
-
-<g transform="translate(35 112)">
+<g transform="translate(35 62)">
 <rect width="455" height="245" rx="12" fill="#131815" stroke="#2A312C"/>
 <text x="26" y="44" fill="#A3B18A" font-family="monospace" font-size="11">01 / PRODUCT</text>
 <text x="26" y="78" fill="#F1F3F0" font-family="Arial" font-size="22" font-weight="700">Smartilee</text>
@@ -14,7 +11,7 @@
 <text x="26" y="220" fill="#68736B" font-family="monospace" font-size="11">LLMS · FLASK · NODE · FLUTTER</text>
 </g>
 
-<g transform="translate(510 112)">
+<g transform="translate(510 62)">
 <rect width="455" height="245" rx="12" fill="#131815" stroke="#2A312C"/>
 <text x="26" y="44" fill="#A3B18A" font-family="monospace" font-size="11">02 / VISION</text>
 <text x="26" y="78" fill="#F1F3F0" font-family="Arial" font-size="22" font-weight="700">Hospital Nav</text>
@@ -25,7 +22,7 @@
 <text x="26" y="220" fill="#68736B" font-family="monospace" font-size="11">FLUTTER · FASTAPI · CLIP · AR</text>
 </g>
 
-<g transform="translate(35 385)">
+<g transform="translate(35 335)">
 <rect width="455" height="245" rx="12" fill="#131815" stroke="#2A312C"/>
 <text x="26" y="44" fill="#A3B18A" font-family="monospace" font-size="11">03 / AGRICULTURE</text>
 <text x="26" y="78" fill="#F1F3F0" font-family="Arial" font-size="22" font-weight="700">Go Pashu</text>
@@ -36,7 +33,7 @@
 <text x="26" y="220" fill="#68736B" font-family="monospace" font-size="11">FLUTTER · FLASK · POSTGRESQL</text>
 </g>
 
-<g transform="translate(510 385)">
+<g transform="translate(510 335)">
 <rect width="455" height="245" rx="12" fill="#131815" stroke="#2A312C"/>
 <text x="26" y="44" fill="#A3B18A" font-family="monospace" font-size="11">04 / COMPUTER VISION</text>
 <text x="26" y="78" fill="#F1F3F0" font-family="Arial" font-size="22" font-weight="700">NutriVision</text>
@@ -47,5 +44,5 @@
 <text x="26" y="220" fill="#68736B" font-family="monospace" font-size="11">YOLOV8 · PYTORCH · OPENCV · FLUTTER</text>
 </g>
 
-<text x="955" y="655" text-anchor="end" fill="#5E6861" font-family="monospace" font-size="11">SELECTED WORK</text>
+<text x="955" y="605" text-anchor="end" fill="#5E6861" font-family="monospace" font-size="11">SELECTED WORK</text>
 </svg>
