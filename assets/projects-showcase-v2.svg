@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
   <title id="title">Selected projects and prototypes</title>
-  <desc id="desc">TaskMesh distributed AI inference, Smartilee commerce intelligence, NutriVision food understanding, and Braille Converter accessibility tooling.</desc>
+  <desc id="desc">TaskMesh distributed AI inference, Smartilee commerce intelligence, NutriVision food understanding, and a GPU inference fair scheduler for multi-stream video workloads developed for CET CCET.</desc>
   <rect width="1200" height="560" rx="22" fill="#0D100F"/>
   <text x="36" y="43" fill="#B9D7A1" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="1.2">SELECTED PROJECTS &amp; PROTOTYPES</text>
   <g font-family="Arial, Helvetica, sans-serif">
@@ -33,12 +33,13 @@
     </g>
     <g transform="translate(612 302)">
       <rect width="560" height="210" rx="15" fill="#131A15" stroke="#304134"/>
-      <text x="24" y="37" fill="#A9C49E" font-family="monospace" font-size="13" font-weight="700">04 / ACCESSIBILITY</text>
-      <text x="24" y="77" fill="#F2F5F0" font-size="27" font-weight="700">Braille Converter</text>
-      <text x="24" y="112" fill="#D0DAD0" font-size="18">A Flutter and Flask app concept for converting</text>
-      <text x="24" y="138" fill="#D0DAD0" font-size="18">text into Braille and making information more accessible.</text>
-      <rect x="24" y="162" width="110" height="28" rx="14" fill="#223329"/><text x="79" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">Flutter</text>
-      <rect x="144" y="162" width="95" height="28" rx="14" fill="#223329"/><text x="191" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">Flask</text>
+      <text x="24" y="37" fill="#A9C49E" font-family="monospace" font-size="13" font-weight="700">04 / GPU INFERENCE · CET CCET</text>
+      <text x="24" y="77" fill="#F2F5F0" font-size="26" font-weight="700">GPU Inference Fair Scheduler</text>
+      <text x="24" y="112" fill="#D0DAD0" font-size="18">Fair-share YOLO11 inference across video streams,</text>
+      <text x="24" y="138" fill="#D0DAD0" font-size="18">with weighted scheduling, batching, and metrics.</text>
+      <rect x="24" y="162" width="92" height="28" rx="14" fill="#223329"/><text x="70" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">YOLO11</text>
+      <rect x="126" y="162" width="114" height="28" rx="14" fill="#223329"/><text x="183" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">TensorRT</text>
+      <rect x="250" y="162" width="164" height="28" rx="14" fill="#223329"/><text x="332" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">Fair scheduling</text>
     </g>
   </g>
 </svg>
