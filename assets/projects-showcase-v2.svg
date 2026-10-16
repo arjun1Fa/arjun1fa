@@ -1,48 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620">
-<rect width="1000" height="680" rx="24" fill="#0D100F"/>
-<g transform="translate(35 62)">
-<rect width="455" height="245" rx="12" fill="#131815" stroke="#2A312C"/>
-<text x="26" y="44" fill="#A3B18A" font-family="monospace" font-size="11">01 / PRODUCT</text>
-<text x="26" y="78" fill="#F1F3F0" font-family="Arial" font-size="22" font-weight="700">Smartilee</text>
-<text x="26" y="116" fill="#D3D9D4" font-family="Arial" font-size="15" font-weight="700">AI-powered WhatsApp commerce</text>
-<text x="26" y="145" fill="#8B958E" font-family="Arial" font-size="14">Intent, sentiment, personalisation,</text>
-<text x="26" y="166" fill="#8B958E" font-family="Arial" font-size="14">churn prediction and automation.</text>
-<line x1="26" y1="193" x2="429" y2="193" stroke="#2A312C"/>
-<text x="26" y="220" fill="#68736B" font-family="monospace" font-size="11">LLMS · FLASK · NODE · FLUTTER</text>
-</g>
-
-<g transform="translate(510 62)">
-<rect width="455" height="245" rx="12" fill="#131815" stroke="#2A312C"/>
-<text x="26" y="44" fill="#A3B18A" font-family="monospace" font-size="11">02 / VISION</text>
-<text x="26" y="78" fill="#F1F3F0" font-family="Arial" font-size="22" font-weight="700">Hospital Nav</text>
-<text x="26" y="116" fill="#D3D9D4" font-family="Arial" font-size="15" font-weight="700">Indoor navigation + computer vision</text>
-<text x="26" y="145" fill="#8B958E" font-family="Arial" font-size="14">A* routing, Wi-Fi fingerprints,</text>
-<text x="26" y="166" fill="#8B958E" font-family="Arial" font-size="14">CLIP matching, AR and voice guidance.</text>
-<line x1="26" y1="193" x2="429" y2="193" stroke="#2A312C"/>
-<text x="26" y="220" fill="#68736B" font-family="monospace" font-size="11">FLUTTER · FASTAPI · CLIP · AR</text>
-</g>
-
-<g transform="translate(35 335)">
-<rect width="455" height="245" rx="12" fill="#131815" stroke="#2A312C"/>
-<text x="26" y="44" fill="#A3B18A" font-family="monospace" font-size="11">03 / AGRICULTURE</text>
-<text x="26" y="78" fill="#F1F3F0" font-family="Arial" font-size="22" font-weight="700">Go Pashu</text>
-<text x="26" y="116" fill="#D3D9D4" font-family="Arial" font-size="15" font-weight="700">AI-assisted farm management</text>
-<text x="26" y="145" fill="#8B958E" font-family="Arial" font-size="14">Farm workflows combined with</text>
-<text x="26" y="166" fill="#8B958E" font-family="Arial" font-size="14">disease-detection support.</text>
-<line x1="26" y1="193" x2="429" y2="193" stroke="#2A312C"/>
-<text x="26" y="220" fill="#68736B" font-family="monospace" font-size="11">FLUTTER · FLASK · POSTGRESQL</text>
-</g>
-
-<g transform="translate(510 335)">
-<rect width="455" height="245" rx="12" fill="#131815" stroke="#2A312C"/>
-<text x="26" y="44" fill="#A3B18A" font-family="monospace" font-size="11">04 / COMPUTER VISION</text>
-<text x="26" y="78" fill="#F1F3F0" font-family="Arial" font-size="22" font-weight="700">NutriVision</text>
-<text x="26" y="116" fill="#D3D9D4" font-family="Arial" font-size="15" font-weight="700">Food detection and nutrition analysis</text>
-<text x="26" y="145" fill="#8B958E" font-family="Arial" font-size="14">Food recognition, portion estimation</text>
-<text x="26" y="166" fill="#8B958E" font-family="Arial" font-size="14">and nutritional value estimation.</text>
-<line x1="26" y1="193" x2="429" y2="193" stroke="#2A312C"/>
-<text x="26" y="220" fill="#68736B" font-family="monospace" font-size="11">YOLOV8 · PYTORCH · OPENCV · FLUTTER</text>
-</g>
-
-<text x="955" y="605" text-anchor="end" fill="#5E6861" font-family="monospace" font-size="11">SELECTED WORK</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Selected projects and prototypes</title>
+  <desc id="desc">TaskMesh distributed AI inference, Smartilee commerce intelligence, NutriVision food understanding, and Braille Converter accessibility tooling.</desc>
+  <rect width="1200" height="560" rx="22" fill="#0D100F"/>
+  <text x="36" y="43" fill="#B9D7A1" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="1.2">SELECTED PROJECTS &amp; PROTOTYPES</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(28 68)">
+      <rect width="560" height="210" rx="15" fill="#131A15" stroke="#304134"/>
+      <text x="24" y="37" fill="#A9C49E" font-family="monospace" font-size="13" font-weight="700">01 / DISTRIBUTED SYSTEMS</text>
+      <text x="24" y="77" fill="#F2F5F0" font-size="27" font-weight="700">TaskMesh</text>
+      <text x="24" y="112" fill="#D0DAD0" font-size="18">A workload-splitting system for video inference,</text>
+      <text x="24" y="138" fill="#D0DAD0" font-size="18">exploring how AI tasks can be scheduled across nodes.</text>
+      <rect x="24" y="162" width="120" height="28" rx="14" fill="#223329"/><text x="84" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">Scheduling</text>
+      <rect x="154" y="162" width="145" height="28" rx="14" fill="#223329"/><text x="226" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">AI inference</text>
+    </g>
+    <g transform="translate(612 68)">
+      <rect width="560" height="210" rx="15" fill="#131A15" stroke="#304134"/>
+      <text x="24" y="37" fill="#A9C49E" font-family="monospace" font-size="13" font-weight="700">02 / AI PRODUCT</text>
+      <text x="24" y="77" fill="#F2F5F0" font-size="27" font-weight="700">Smartilee AI</text>
+      <text x="24" y="112" fill="#D0DAD0" font-size="18">Commerce-focused intelligence and automation,</text>
+      <text x="24" y="138" fill="#D0DAD0" font-size="18">including intent, personalisation, and churn signals.</text>
+      <rect x="24" y="162" width="120" height="28" rx="14" fill="#223329"/><text x="84" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">LLM apps</text>
+      <rect x="154" y="162" width="142" height="28" rx="14" fill="#223329"/><text x="225" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">Automation</text>
+    </g>
+    <g transform="translate(28 302)">
+      <rect width="560" height="210" rx="15" fill="#131A15" stroke="#304134"/>
+      <text x="24" y="37" fill="#A9C49E" font-family="monospace" font-size="13" font-weight="700">03 / COMPUTER VISION</text>
+      <text x="24" y="77" fill="#F2F5F0" font-size="27" font-weight="700">NutriVision</text>
+      <text x="24" y="112" fill="#D0DAD0" font-size="18">Food recognition with portion and nutrition</text>
+      <text x="24" y="138" fill="#D0DAD0" font-size="18">estimation for a practical food-analysis app.</text>
+      <rect x="24" y="162" width="100" height="28" rx="14" fill="#223329"/><text x="74" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">YOLO</text>
+      <rect x="134" y="162" width="125" height="28" rx="14" fill="#223329"/><text x="196" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">OpenCV</text>
+    </g>
+    <g transform="translate(612 302)">
+      <rect width="560" height="210" rx="15" fill="#131A15" stroke="#304134"/>
+      <text x="24" y="37" fill="#A9C49E" font-family="monospace" font-size="13" font-weight="700">04 / ACCESSIBILITY</text>
+      <text x="24" y="77" fill="#F2F5F0" font-size="27" font-weight="700">Braille Converter</text>
+      <text x="24" y="112" fill="#D0DAD0" font-size="18">A Flutter and Flask app concept for converting</text>
+      <text x="24" y="138" fill="#D0DAD0" font-size="18">text into Braille and making information more accessible.</text>
+      <rect x="24" y="162" width="110" height="28" rx="14" fill="#223329"/><text x="79" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">Flutter</text>
+      <rect x="144" y="162" width="95" height="28" rx="14" fill="#223329"/><text x="191" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">Flask</text>
+    </g>
+  </g>
 </svg>
