@@ -1,45 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
-  <title id="title">Selected projects and prototypes</title>
-  <desc id="desc">TaskMesh distributed AI inference, Smartilee commerce intelligence, NutriVision food understanding, and a GPU inference fair scheduler for multi-stream video workloads developed for CET CCET.</desc>
-  <rect width="1200" height="560" rx="22" fill="#0D100F"/>
-  <text x="36" y="43" fill="#B9D7A1" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="1.2">SELECTED PROJECTS &amp; PROTOTYPES</text>
+  <title id="title">Selected projects</title>
+  <desc id="desc">TaskMesh distributed inference, Smartilee commerce AI, NutriVision computer vision, and CET CCET GPU inference fair scheduling.</desc>
+  <rect width="1200" height="560" fill="#0D0F12"/>
+  <text x="36" y="43" fill="#F0F3F7" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="1.2">SELECTED PROJECTS &amp; PROTOTYPES</text>
+  <text x="1164" y="43" fill="#AAB3BD" font-family="monospace" font-size="11" text-anchor="end">REAL PROBLEMS / PRACTICAL SYSTEMS</text>
+  <line x1="28" y1="58" x2="1172" y2="58" stroke="#343940"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <g transform="translate(28 68)">
-      <rect width="560" height="210" rx="15" fill="#131A15" stroke="#304134"/>
-      <text x="24" y="37" fill="#A9C49E" font-family="monospace" font-size="13" font-weight="700">01 / DISTRIBUTED SYSTEMS</text>
-      <text x="24" y="77" fill="#F2F5F0" font-size="27" font-weight="700">TaskMesh</text>
-      <text x="24" y="112" fill="#D0DAD0" font-size="18">A workload-splitting system for video inference,</text>
-      <text x="24" y="138" fill="#D0DAD0" font-size="18">exploring how AI tasks can be scheduled across nodes.</text>
-      <rect x="24" y="162" width="120" height="28" rx="14" fill="#223329"/><text x="84" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">Scheduling</text>
-      <rect x="154" y="162" width="145" height="28" rx="14" fill="#223329"/><text x="226" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">AI inference</text>
+    <g transform="translate(28 74)">
+      <rect width="560" height="210" fill="#13171D" stroke="#343940"/>
+      <rect width="5" height="210" fill="#F02D3A"/>
+      <text x="24" y="36" fill="#F02D3A" font-family="monospace" font-size="13" font-weight="700">01 / DISTRIBUTED SYSTEMS</text>
+      <text x="24" y="75" fill="#F0F3F7" font-size="27" font-weight="700">TaskMesh</text>
+      <text x="24" y="109" fill="#CDD2D9" font-size="17">A workload-splitting system for video inference,</text>
+      <text x="24" y="134" fill="#CDD2D9" font-size="17">exploring scheduling across distributed nodes.</text>
+      <rect x="24" y="159" width="120" height="30" fill="#271519" stroke="#773039"/><text x="84" y="179" fill="#F0F3F7" font-size="14" text-anchor="middle">Scheduling</text>
+      <rect x="154" y="159" width="145" height="30" fill="#1A2027" stroke="#343940"/><text x="226" y="179" fill="#F0F3F7" font-size="14" text-anchor="middle">AI inference</text>
     </g>
-    <g transform="translate(612 68)">
-      <rect width="560" height="210" rx="15" fill="#131A15" stroke="#304134"/>
-      <text x="24" y="37" fill="#A9C49E" font-family="monospace" font-size="13" font-weight="700">02 / AI PRODUCT</text>
-      <text x="24" y="77" fill="#F2F5F0" font-size="27" font-weight="700">Smartilee AI</text>
-      <text x="24" y="112" fill="#D0DAD0" font-size="18">Commerce-focused intelligence and automation,</text>
-      <text x="24" y="138" fill="#D0DAD0" font-size="18">including intent, personalisation, and churn signals.</text>
-      <rect x="24" y="162" width="120" height="28" rx="14" fill="#223329"/><text x="84" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">LLM apps</text>
-      <rect x="154" y="162" width="142" height="28" rx="14" fill="#223329"/><text x="225" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">Automation</text>
+    <g transform="translate(612 74)">
+      <rect width="560" height="210" fill="#13171D" stroke="#343940"/>
+      <rect width="5" height="210" fill="#F02D3A"/>
+      <text x="24" y="36" fill="#F02D3A" font-family="monospace" font-size="13" font-weight="700">02 / AI PRODUCT</text>
+      <text x="24" y="75" fill="#F0F3F7" font-size="27" font-weight="700">Smartilee AI</text>
+      <text x="24" y="109" fill="#CDD2D9" font-size="17">Commerce-focused intelligence and automation,</text>
+      <text x="24" y="134" fill="#CDD2D9" font-size="17">including intent, personalisation, and churn signals.</text>
+      <rect x="24" y="159" width="120" height="30" fill="#271519" stroke="#773039"/><text x="84" y="179" fill="#F0F3F7" font-size="14" text-anchor="middle">LLM apps</text>
+      <rect x="154" y="159" width="142" height="30" fill="#1A2027" stroke="#343940"/><text x="225" y="179" fill="#F0F3F7" font-size="14" text-anchor="middle">Automation</text>
     </g>
-    <g transform="translate(28 302)">
-      <rect width="560" height="210" rx="15" fill="#131A15" stroke="#304134"/>
-      <text x="24" y="37" fill="#A9C49E" font-family="monospace" font-size="13" font-weight="700">03 / COMPUTER VISION</text>
-      <text x="24" y="77" fill="#F2F5F0" font-size="27" font-weight="700">NutriVision</text>
-      <text x="24" y="112" fill="#D0DAD0" font-size="18">Food recognition with portion and nutrition</text>
-      <text x="24" y="138" fill="#D0DAD0" font-size="18">estimation for a practical food-analysis app.</text>
-      <rect x="24" y="162" width="100" height="28" rx="14" fill="#223329"/><text x="74" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">YOLO</text>
-      <rect x="134" y="162" width="125" height="28" rx="14" fill="#223329"/><text x="196" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">OpenCV</text>
+    <g transform="translate(28 306)">
+      <rect width="560" height="210" fill="#13171D" stroke="#343940"/>
+      <rect width="5" height="210" fill="#F02D3A"/>
+      <text x="24" y="36" fill="#F02D3A" font-family="monospace" font-size="13" font-weight="700">03 / COMPUTER VISION</text>
+      <text x="24" y="75" fill="#F0F3F7" font-size="27" font-weight="700">NutriVision</text>
+      <text x="24" y="109" fill="#CDD2D9" font-size="17">Food recognition with portion and nutrition</text>
+      <text x="24" y="134" fill="#CDD2D9" font-size="17">estimation for a practical food-analysis app.</text>
+      <rect x="24" y="159" width="100" height="30" fill="#271519" stroke="#773039"/><text x="74" y="179" fill="#F0F3F7" font-size="14" text-anchor="middle">YOLO</text>
+      <rect x="134" y="159" width="125" height="30" fill="#1A2027" stroke="#343940"/><text x="196" y="179" fill="#F0F3F7" font-size="14" text-anchor="middle">OpenCV</text>
     </g>
-    <g transform="translate(612 302)">
-      <rect width="560" height="210" rx="15" fill="#131A15" stroke="#304134"/>
-      <text x="24" y="37" fill="#A9C49E" font-family="monospace" font-size="13" font-weight="700">04 / GPU INFERENCE · CET CCET</text>
-      <text x="24" y="77" fill="#F2F5F0" font-size="26" font-weight="700">GPU Inference Fair Scheduler</text>
-      <text x="24" y="112" fill="#D0DAD0" font-size="18">Fair-share YOLO11 inference across video streams,</text>
-      <text x="24" y="138" fill="#D0DAD0" font-size="18">with weighted scheduling, batching, and metrics.</text>
-      <rect x="24" y="162" width="92" height="28" rx="14" fill="#223329"/><text x="70" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">YOLO11</text>
-      <rect x="126" y="162" width="114" height="28" rx="14" fill="#223329"/><text x="183" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">TensorRT</text>
-      <rect x="250" y="162" width="164" height="28" rx="14" fill="#223329"/><text x="332" y="181" fill="#DDE9D8" font-size="14" text-anchor="middle">Fair scheduling</text>
+    <g transform="translate(612 306)">
+      <rect width="560" height="210" fill="#13171D" stroke="#343940"/>
+      <rect width="5" height="210" fill="#F02D3A"/>
+      <text x="24" y="36" fill="#F02D3A" font-family="monospace" font-size="13" font-weight="700">04 / GPU INFERENCE · CET CCET</text>
+      <text x="24" y="75" fill="#F0F3F7" font-size="25" font-weight="700">GPU Inference Fair Scheduler</text>
+      <text x="24" y="109" fill="#CDD2D9" font-size="17">Fair-share YOLO11 inference across video streams,</text>
+      <text x="24" y="134" fill="#CDD2D9" font-size="17">with weighted scheduling, batching, and metrics.</text>
+      <rect x="24" y="159" width="92" height="30" fill="#271519" stroke="#773039"/><text x="70" y="179" fill="#F0F3F7" font-size="14" text-anchor="middle">YOLO11</text>
+      <rect x="126" y="159" width="114" height="30" fill="#1A2027" stroke="#343940"/><text x="183" y="179" fill="#F0F3F7" font-size="14" text-anchor="middle">TensorRT</text>
+      <rect x="250" y="159" width="164" height="30" fill="#1A2027" stroke="#343940"/><text x="332" y="179" fill="#F0F3F7" font-size="14" text-anchor="middle">Fair scheduling</text>
     </g>
   </g>
 </svg>
