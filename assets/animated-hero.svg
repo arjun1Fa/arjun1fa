@@ -1,42 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-  <title id="title">Arjun A S — AI, software and systems</title>
-  <desc id="desc">A clean dark green profile banner highlighting AI and machine learning, computer vision, full-stack development, and distributed systems.</desc>
-  <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0B100D"/>
-      <stop offset="100%" stop-color="#111A14"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#B9D7A1"/>
-      <stop offset="100%" stop-color="#7EAE8B"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="330" rx="22" fill="url(#background)"/>
-  <rect x="1" y="1" width="1198" height="328" rx="21" stroke="#2C3A30" fill="none"/>
-  <path d="M56 32 H170" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
-  <text x="56" y="61" fill="#A9B9AA" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">ARJUN A S  /  COMPUTER SCIENCE</text>
-  <text x="56" y="132" fill="#F2F5F0" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.2">Building useful</text>
-  <text x="56" y="188" fill="#F2F5F0" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.2">software with purpose.</text>
-  <text x="58" y="229" fill="#C3CEC4" font-family="Arial, Helvetica, sans-serif" font-size="20">AI/ML · Computer Vision · Full-Stack · Distributed Systems</text>
-  <rect x="56" y="260" width="244" height="38" rx="19" fill="#1B2B20" stroke="#3D6046"/>
-  <circle cx="76" cy="279" r="4" fill="#B9D7A1"/>
-  <text x="91" y="284" fill="#E0EBDD" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600">Learn by building. Ship often.</text>
-  <g opacity="0.9" stroke="#52745A" stroke-width="1.5" fill="none">
-    <path d="M842 85 L930 130 L1034 82 L1111 143"/>
-    <path d="M842 85 L865 190 L976 236 L1070 196 L1111 143"/>
-    <path d="M930 130 L976 236"/>
-    <path d="M1034 82 L1070 196"/>
-    <path d="M865 190 L930 130 L1070 196"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">Arjun A S</title>
+  <desc id="desc">Arjun A S, Computer Science student at SCTCE, working across AI, computer vision, full-stack development, and distributed systems.</desc>
+  <rect width="1200" height="270" fill="#0D0F12"/>
+  <rect x="0" y="0" width="10" height="270" fill="#F02D3A"/>
+  <rect x="10" y="0" width="1190" height="270" fill="none" stroke="#343940" stroke-width="1"/>
+  <path d="M55 36 H132" stroke="#F02D3A" stroke-width="4"/>
+  <text x="55" y="66" fill="#AEB6C0" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3">COMPUTER SCIENCE  /  SCTCE '27</text>
+  <text x="52" y="145" fill="#F0F3F7" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-2">ARJUN</text>
+  <text x="335" y="145" fill="#F02D3A" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-2">A S</text>
+  <text x="57" y="190" fill="#CDD2D9" font-family="Arial, Helvetica, sans-serif" font-size="19">AI/ML  ·  Computer Vision  ·  Full-Stack  ·  Distributed Systems</text>
+  <line x1="57" y1="220" x2="650" y2="220" stroke="#343940"/>
+  <text x="57" y="245" fill="#8F99A5" font-family="monospace" font-size="12" letter-spacing="1.5">ARJUN1FA  /  ENGINEERING THROUGH EXPERIMENTATION</text>
+  <g fill="none" stroke="#783039" stroke-width="1.5">
+    <path d="M790 78 L870 124 L952 72 L1035 130 L1121 81"/>
+    <path d="M790 78 L812 190 L900 220 L1035 130 L1084 207 L1121 81"/>
+    <path d="M870 124 L900 220 L952 72 L1084 207"/>
+    <path d="M812 190 L870 124 L1035 130"/>
   </g>
-  <g fill="#B9D7A1">
-    <circle cx="842" cy="85" r="5"/><circle cx="930" cy="130" r="7"/><circle cx="1034" cy="82" r="5"/>
-    <circle cx="1111" cy="143" r="7"/><circle cx="865" cy="190" r="5"/><circle cx="976" cy="236" r="7"/><circle cx="1070" cy="196" r="5"/>
+  <g fill="#F02D3A">
+    <rect x="784" y="72" width="12" height="12"/><rect x="864" y="118" width="12" height="12"/>
+    <rect x="946" y="66" width="12" height="12"/><rect x="1029" y="124" width="12" height="12"/>
+    <rect x="1115" y="75" width="12" height="12"/><rect x="806" y="184" width="12" height="12"/>
+    <rect x="894" y="214" width="12" height="12"/><rect x="1078" y="201" width="12" height="12"/>
   </g>
-  <g fill="#0E1510" stroke="#42624A">
-    <circle cx="930" cy="130" r="20"/><circle cx="976" cy="236" r="20"/><circle cx="1111" cy="143" r="20"/>
+  <g font-family="monospace" font-size="11" fill="#C5CBD3" text-anchor="middle">
+    <rect x="836" y="105" width="68" height="36" fill="#171B21" stroke="#F02D3A"/><text x="870" y="127">AI/ML</text>
+    <rect x="866" y="202" width="68" height="36" fill="#171B21" stroke="#F02D3A"/><text x="900" y="224">SYS</text>
+    <rect x="1000" y="112" width="70" height="36" fill="#171B21" stroke="#F02D3A"/><text x="1035" y="134">DEV</text>
   </g>
-  <g fill="#DDE9D8" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="middle">
-    <text x="930" y="134">AI</text><text x="976" y="240">SYS</text><text x="1111" y="147">DEV</text>
-  </g>
-  <text x="1145" y="300" fill="#687D6D" font-family="monospace" font-size="11" text-anchor="end">BUILD / LEARN / ITERATE</text>
 </svg>
