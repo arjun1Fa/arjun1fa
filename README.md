@@ -5,9 +5,9 @@
 </a>
 
 <p>
-  <a href="https://github.com/arjun1Fa?tab=repositories"><img src="https://img.shields.io/badge/Repositories-F02D3A?style=flat-square&logo=github&logoColor=F0F3F7" alt="GitHub repositories" /></a>
-  <a href="mailto:culerarjun@gmail.com"><img src="https://img.shields.io/badge/Email-252A32?style=flat-square&logo=gmail&logoColor=F0F3F7" alt="Email" /></a>
-  <a href="https://instagram.com/_winter.a_"><img src="https://img.shields.io/badge/Instagram-252A32?style=flat-square&logo=instagram&logoColor=F0F3F7" alt="Instagram" /></a>
+  <a href="https://github.com/arjun1Fa?tab=repositories"><img src="https://img.shields.io/badge/Repositories-F01832?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=171A20" alt="GitHub repositories" /></a>
+  <a href="mailto:culerarjun@gmail.com"><img src="https://img.shields.io/badge/Email-F01832?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=171A20" alt="Email" /></a>
+  <a href="https://instagram.com/_winter.a_"><img src="https://img.shields.io/badge/Instagram-F01832?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=171A20" alt="Instagram" /></a>
 </p>
 
 </div>
@@ -74,8 +74,16 @@ I'm a Python-focused developer who works across **AI/ML, computer vision, backen
 
 ## Connect
 
-Open to thoughtful collaboration on AI applications, computer vision, developer tools, and systems engineering.
+<div align="center">
 
-[GitHub repositories](https://github.com/arjun1Fa?tab=repositories) · [Email](mailto:culerarjun@gmail.com) · [Instagram](https://instagram.com/_winter.a_)
+<img src="./assets/contact.svg" width="100%" alt="Open to collaboration on AI, computer vision, products, and systems" />
+
+<p>
+  <a href="https://github.com/arjun1Fa?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-F01832?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=171A20" alt="Explore projects on GitHub" /></a>
+  <a href="mailto:culerarjun@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-F01832?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=171A20" alt="Email Arjun" /></a>
+  <a href="https://instagram.com/_winter.a_"><img src="https://img.shields.io/badge/INSTAGRAM-F01832?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=171A20" alt="Instagram profile" /></a>
+</p>
 
 <sub>Good ideas deserve good execution.</sub>
+
+</div>
