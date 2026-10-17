@@ -1,16 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
   <title id="title">Currently exploring</title>
-  <desc id="desc">Agentic AI, local AI, MCP integrations, computer vision, and end-to-end product deployment.</desc>
-  <rect width="1200" height="270" rx="22" fill="#0D100F"/>
-  <rect x="18" y="18" width="1164" height="234" rx="16" fill="#131A15" stroke="#304134"/>
-  <text x="48" y="58" fill="#B9D7A1" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.5">CURRENTLY EXPLORING</text>
-  <line x1="48" y1="78" x2="1152" y2="78" stroke="#304134"/>
-  <g font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#E3EAE2">
-    <circle cx="56" cy="116" r="5" fill="#B9D7A1"/><text x="76" y="123">Agentic AI and tool-using systems</text>
-    <circle cx="56" cy="158" r="5" fill="#B9D7A1"/><text x="76" y="165">Local and self-hosted AI</text>
-    <circle cx="56" cy="200" r="5" fill="#B9D7A1"/><text x="76" y="207">MCP and model-to-tool integrations</text>
-    <circle cx="620" cy="116" r="5" fill="#B9D7A1"/><text x="640" y="123">Computer vision for practical applications</text>
-    <circle cx="620" cy="158" r="5" fill="#B9D7A1"/><text x="640" y="165">Distributed inference and scheduling</text>
-    <circle cx="620" cy="200" r="5" fill="#B9D7A1"/><text x="640" y="207">Taking products from prototype to deployment</text>
+  <desc id="desc">Agentic AI, local AI, MCP integrations, computer vision, distributed inference, and deployment.</desc>
+  <rect width="1200" height="270" fill="#0D0F12"/>
+  <rect x="18" y="18" width="1164" height="234" fill="#13171D" stroke="#343940"/>
+  <rect x="18" y="18" width="5" height="234" fill="#F02D3A"/>
+  <text x="48" y="56" fill="#F02D3A" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.5">CURRENTLY EXPLORING</text>
+  <line x1="48" y1="76" x2="1152" y2="76" stroke="#343940"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#E4E8ED">
+    <rect x="49" y="103" width="8" height="8" fill="#F02D3A"/><text x="76" y="113">Agentic AI and tool-using systems</text>
+    <rect x="49" y="145" width="8" height="8" fill="#F02D3A"/><text x="76" y="155">Local and self-hosted AI</text>
+    <rect x="49" y="187" width="8" height="8" fill="#F02D3A"/><text x="76" y="197">MCP and model-to-tool integrations</text>
+    <rect x="620" y="103" width="8" height="8" fill="#F02D3A"/><text x="647" y="113">Computer vision for practical applications</text>
+    <rect x="620" y="145" width="8" height="8" fill="#F02D3A"/><text x="647" y="155">Distributed inference and fair scheduling</text>
+    <rect x="620" y="187" width="8" height="8" fill="#F02D3A"/><text x="647" y="197">Taking products from prototype to deployment</text>
   </g>
+  <text x="1150" y="231" fill="#8F99A5" font-family="monospace" font-size="11" text-anchor="end">LEARN / EXPERIMENT / ITERATE</text>
 </svg>
