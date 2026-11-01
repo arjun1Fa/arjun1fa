@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub streak statistics are being generated</title>
+  <desc id="desc">The GitHub Actions workflow will replace this temporary panel with live total contributions, current streak, and longest streak statistics.</desc>
+  <rect width="1000" height="230" fill="#0D0F12"/>
+  <rect x="1" y="1" width="998" height="228" fill="none" stroke="#343940"/>
+  <rect x="1" y="1" width="6" height="228" fill="#F02D3A"/>
+  <text x="34" y="48" fill="#F02D3A" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.4">GITHUB STREAK</text>
+  <line x1="34" y1="66" x2="966" y2="66" stroke="#343940"/>
+  <text x="34" y="116" fill="#F0F3F7" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Preparing your contribution stats</text>
+  <text x="34" y="151" fill="#AAB3BD" font-family="Arial, Helvetica, sans-serif" font-size="16">The profile workflow is being set up. Your current and longest streaks will appear here.</text>
+  <rect x="34" y="181" width="932" height="1" fill="#343940"/>
+  <text x="34" y="207" fill="#8F99A5" font-family="monospace" font-size="12">AUTO-UPDATED DAILY BY GITHUB ACTIONS</text>
+</svg>
