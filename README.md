@@ -57,7 +57,7 @@ I'm a Python-focused developer who works across **AI/ML, computer vision, backen
 <div align="center">
 
 <a href="https://github.com/arjun1Fa">
-  <img src="https://streak-stats.demolab.com/?user=arjun1Fa&hide_border=true&border_radius=0&background=0D0F12&stroke=343940&ring=F02D3A&fire=F02D3A&currStreakNum=F0F3F7&sideNums=F0F3F7&currStreakLabel=F02D3A&sideLabels=AAB3BD&dates=808995&timezone=Asia%2FKolkata" width="100%" alt="GitHub contribution streak and activity statistics" />
+  <img src="./profile/streak.svg" width="100%" alt="GitHub current streak, longest streak, and total contributions" />
 </a>
 
 </div>
